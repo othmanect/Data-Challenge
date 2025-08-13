@@ -1,0 +1,403 @@
+school;sex;age;address;famsize;Pstatus;Medu;Fedu;Fjob;Mjob;reason;guardian;traveltime;studytime;failures;schoolsup;famsup;paid;activities;nursery;higher;internet;romantic;famrel;freetime;goout;Dalc;Walc;health;absences;G1;G2;G3
+GP;F;18.0;U;GT3;A;4.0;4.0;teacher;at_home;course;mother;2.0;2.0;0.0;Yes;nO;No;no;YES;yes;NO;no;4.0;3.0;4.0;1.0;;3.0;6.0;5.0;6.0;6.0
+ GP;F;17.0;U;GT3;T;1.0;1.0;other;at_home;course;fatheR;1.0;2.0;0.0;NO;yes;; nO  ;No;YES;yes;no;35.0;3.0;;1.0;31.0;3.0;4.0;5.0;5.0;6.0
+ GP ;f;15.0;U;LE3;T;1.0;1.0;other;at_home;other;mother;1.0;2.0;3.0;yes;No;yes;No;yes;Yes; yEs  ;no;4.0;3.0;2.0;2.0;3.0;33.0;;7.0;8.0;10.0
+GP;F;15.0;U; GT3 ;T; 4.0 ;32.0;;;ho, me;mother;1.0;3.0;0.0;NO;yes;YES;YES; yEs  ; yEs  ;Yes; yEs  ;3.0;2.0;2.0;31.0;1.0;5.0;2.0;15.0;4.0;15.0
+GP;F;16.0;U;GT3; T ;3.0;;other;other;  home ;father;1.0;2.0;0.0; nO  ;Yes;YES;NO; yEs  ;Yes;No;NO;4.0;3.0;2.0;1.0;2.0;5.0;4.0;6.0;10.0;10.0
+GP;M;16.0; U ; LE3;T;4.0;3.0;other;services;reputation;mother;1.0;2.0;0.0;No;yes;yes; YES ;Yes;YES;YES ; nO  ;5.0;4.0;2.0;1.0;2.0;5.0;10.0;15.0;15.0;115.0
+GP;M;16.0;U;LE3;T;2.0;2.0;other;other;home;nan;1.0;2.0;0.0;NO;NO; no ;no;YES; yes ;yEs;No;4.0;4.0;4.0;1.0;1.0;3.0; 0.0 ;12.0;12.0;11.0
+ GP;F;17.0;U;;A;4.0;4.0;teacher;other;home;mother;2.0;2.0;0.0;Yes; yEs  ;no;No;YES;Yes;nO;No;4.0;1.0; 4.0 ;1.0;1.0;1.0;;6.0;5.0;6.0
+GP; M ;15.0;U ;LE3;A;3.0;2.0;other;services;home;mother;1.0;2.0;0.0;NO;Yes;YES;no;Yes; yEs  ;yes;NO;4.0;2.0;2.0;1.0;1.0;1.0;0.0;16.0;18.0;19.0
+GP ;M;15.0;U;GT3;T;3.0;4.0;other; other ;home;mother;1.0;2.0;0.0; nO  ; yEs  ;;YES;Yes;YeS;YES;NO;5.0;5.0;1.0;1.0;;5.0;0.0;14.0;15.0;15.0
+GP;F;;U;GT3;T;4.0;4.0;health;teacher;reputation;mother;1.0;2.0;0.0;no;yes; yEs  ;N O; yEs  ;Yes; yEs  ; nO  ;3.0; 3.0 ;3.0;1.0;2.0;-8.0;0.0;10.0;8.0;9.0
+GP;F;15.0;u;GT3;T;2.0;1.0;other;services;reputation;father;3.0;3.0;0.0;nO;Yes; nO  ; yEs  ; yEs  ;; yEs  ;NO;5.0; 2.0 ;2.0;1.0;1.0;4.0;4.0;10.0;12.0;12.0
+GP;M;15.0;U;LE3;T;;4.0;services;health;coUrse;father;1.0;1.0; 0,0 ;no; yEs  ; yEs  ;Yes; yEs  ;yes;YES;no;4.0;3.0;3.0;-9.0;;5.0; 2.0 ;14.0;14.0;14.0
+GP;M;15.0;U;GT3;T;4.0;3.0; other ;teacher;course;mother;2.0;2.0;0.0; nO  ; yEs  ;YES;No; yEs  ; yEs  ; yEs  ;no;5.0;4.0;3.0;1.0;2.0;3.0;2.0;10.0;10.0;11.0
+ GP ;M;15.0;U;GT3;;2.0;2.0;other;other; home ;other;1.0; 3.0 ;0.0; nO  ;yes; nO  ;NO;Yes;yes; yes ;yes ;4.0;5.0;2.0;1.0;;3.0;0.0;14.0;16.0;16.0
+GP;F; 16,0 ;U; GT3 ;T;4.0;4.0;other;, health, ;home;mother;1.0;1.0;0.0; No ; YES;No; nO  ;  yEs   ;YES;yes;No;4.0;4.0;4.0;1.0;2.0;2.0;4.0;4.0;14.0;14.0
+GP;F;16.0;U; Gt3 ;T;4.0;4.0;services;services;reputation;mother;;3.0;0.0;no; yEs  ;Yes;Yes;yes;Yes;yes;no;3.0;2.0;3.0; 1.0 ;2.0;2.0;;13.0;14.0;14.0
+GP;F;16.0;U;GT3;T;3.0;3.0;other;;reputation;mother;;2.0;0.0; Yes ; yEs  ;no; yEs  ;YES;;No;;5.0;3.0;2.0;1.0;1.0;4.0;4.0;8.0;10.0;
+GP;M;17.0;U;GT3;t;3.0;-8.0;services;services;course; mother ;1.0;1.0; 3.0 ;no; yEs  ;no;YES;yes;yes;YES; nO  ;5.0;5.0; 5,0 ;2.0;4.0;5.0;16.0;6.0;5.0;5.0
+GP;M;16.0;U;LE3; T ;4.0;3.0;otheR;health;home;father;1.0;1.0;0.0;No;no;yes;YES;yes;yes;Yes;No;3.0;1.0;3.0;1.0;3.0;5.0;4.0;8.0;10.0;10.0
+GP;M; 15.0 ;U;GT3; T ;4.0;3.0;other;teacher;Reputation; mother ;1.0;2.0;0.0;NO;no;NO;No;YES;Y es; YES ;no;4.0;4.0;1.0;1.0;1.0;1.0;0.0; 13,0 ;14.0;15.0
+GP;M;15.0;U;GT3; T;4.0;4.0;health;hEalth;other;father;1.0;1.0;0.0;No;;  yEs  ;NO; yEs  ;YES;YES;NO;5.0;4.0; 2.0 ;1.0;1.0;5.0;0.0;12.0;15.0;115.0
+GP;;16.0;U;LE3;T;4.0;2.0;other;teacher;course;mother;1.0;2.0;0.0; nO  ;no; nO  ; YES ;YES;Yes;YES; No ;4.0;5.0;1.0;31.0;3.0; 5,0 ;2.0;15.0;15.0;
+GP;m;16.0;U;LE3;T;2.0;2.0;other;other; reputation ;mother;102.0;2.0;0.0;No; yEs  ;NO;yes;Yes;Y ES; YES ;NO;105.0; 4,0 ;4.0;2.0;4.0;5.0;0.0;13.0;13.0;12.0
+GP;F;15.0;R;GT3; T ;2.0;4.0;he alth;serviceS;course;mother;1.0;33.0;0.0;yes; yEs  ; yEs  ;Yes;Yes;YEs;Yes;  NO   ;4.0;3.0;2.0;1.0;1.0;5.0;2.0;10.0;9.0;8.0
+GP;F;16.0; U ;GT3;T;2.0;2.0;services;services;home;mother;1.0;1.0;2.0;;Yes;Yes;no; nO  ; yEs  ; yEs  ; nO  ;1.0;2.0;2.0;1.0;3.0;5.0;14.0;6.0;9.0;8.0
+  GP ;M;15.0;U;GT3; T ;2.0;2.0;othe r;other;hOme;mother;1.0;1.0;0.0;No; yEs  ;YES; nO  ;Yes;Yes; yEs  ;no; 4.0 ;2.0;2.0;1.0;2.0;5.0;2.0;12.0;12.0;11.0
+GP;M;15.0;U;GT3;T;-6.0;2.0;services;, health, ;other;mother;1.0;1.0;0.0; NO ;NO;yes; nO  ; yEs  ; yEs  ; yEs  ;NO;;2.0;4.0;2.0;4.0; 1.0 ;4.0;45.0;16.0;15.0
+GP;M; 16.0 ;U;lE3;A ;3.0;4.0;other;services;home;mother;1.0;2.0;0.0; yEs  ;yes;No;  yEs   ; yEs  ;Yes;Yes;no;5.0;3.0;-7.0;1.0;1.0;5.0;4.0;11.0;11.0;11.0
+GP;M;16.0;U;GT3;T ;4.0;4.0;teacher;teacher;home;mother;1.0;2.0;0.0;NO;YES ;YES; yEs  ;yes;Yes;Yes;yes;-6.0;4.0;5.0;5.0;5.0;5.0;16.0;10.0;12.0;11.0
+;M;15.0;U;GT3;T;4.0;4.0;services;health;home;mother; 1,0 ;2.0;0.0;No;YES; yEs  ;no;NO;YES;YES; nO  ;5.0;4.0;2.0;3.0;4.0;5.0;;9.0;11.0;12.0
+GP;M;15.0;U; GT3 ;T;4.0;;Services;services;reputation;mother;2.0;2.0;0.0;No; yEs  ;NO;yes;Yes;yEs;YES; nO  ;4.0;3.0;1.0;1.0;1.0;-5.0;0.0;17.0;16.0;17.0
+GP; M ;15.0;R;GT3; T ;4.0;3.0;at_home;teacher;course;motHer;1.0;2.0;0.0;;Yes;no;YES;YES;YES;Yes;  yEs   ; 4.0 ;5.0;2.0;1.0;1.0;5.0;0.0;17.0;16.0;6.0
+GP;M;15.0;U;LE3;T;3.0;3.0;other;other;course; mother ;1.0;2.0;0.0;No; nO  ; nO  ;yes;NO;;Yes; nO  ;5.0;3.0;2.0;1.0;1.0;2.0;0.0;8.0;10.0; 12,0 
+ GP ;M;16.0; U ;GT3;T;3.0;2.0;other; other ;home; mother ; 1.0 ;1.0;0.0;no; yes ;YES;  nO   ; nO  ;yes ;Yes;NO;5.0;4.0;3.0;1.0;1.0;5.0;0.0;12.0;14.0;15.0
+G P;F;15.0;U;GT3;T;2.0;3.0;other; other ;other;father;2.0;1.0;;No;YES;nO;yes;yes;yes;NO;no;3.0;5.0;1.0;1.0;1.0;5.0;0.0;8.0;;6.0
+GP;M; 15,0 ;U;LE3;T ;4.0;3.0;services;teacher;home;mother;1.0; 3.0 ;0.0; nO  ; yEs  ; nO  ;YES;Y es; Yes ; yES  ;no;5.0;4.0;3.0;1.0;1.0;4.0;; 15,0 ;16.0;18.0
+ GP ;M;16.0;R;GT3;A;4.0;4.0;teacher;other;reputation;mother;2.0;3.0;0.0;NO ; yes ;NO; yEs  ; YES ;yes;Yes; yes  ;2.0;4.0;103.0;1.0;1.0;5.0;7.0;;16.0;15.0
+GP;F;15.0;R;GT3;T;3.0;4.0;health;services;course;mothEr;1.0;3.0;0.0; Yes ; Yes ;Yes;YES; YES ;yes;Yes; nO  ;4.0;3.0;2.0;1.0;1.0;5.0;2.0;;12.0;11.0
+GP;;45.0;R;GT 3;T;32.0; 2.0 ;other;at_hOme;reputation;mother;1.0;1.0;0.0;YES; yEs  ;Yes;YES; YES;Yes;no ;NO;4.0;3.0;1.0;1.0;1.0;2.0;8.0;114.0; 13,0 ;13.0
+GP;F;16.0;U;LE3;T;2.0;2.0;other;other;home; mother ;2.0;2.0;1.0;NO;Yes;no;yes;No;yes;YES;YES;3.0; 3.0 ;3.0;1.0;2.0;3.0;25.0;7.0;10.0;11.0
+ GP ;M;15.0;U;LE3;T;4.0; 4.0 ;other;teacher; home ; otheR ;1.0;1.0;0.0; no;Yes;No;no;NO;YES; yEs  ;yes;5.0;4.0;3.0;2.0;4.0;5.0;8.0;12.0;12.0;12.0
+GP;m;;U;GT3;T;4.0;4.0;teacher;services;course;father;1.0;2.0;0.0; nO  ;YES; nO  ;yes; yEs  ;Yes;Yes; no ;4.0;3.0;3.0;1.0;1.0;5.0;2.0;19.0;18.0;18.0
+GP;M;45.0;U;GT3;T;2.0;2.0; services ;services;course;father;1.0;1.0;;;yes;NO;no;yes;yes;YES;No;;4.0;1.0;1.0;1.0;1.0;0.0; 8,0 ;8.0;111.0
+GP;F;16.0;U;LE3;T;2.0;2.0;at_home;other;course;father;2.0;2.0;1.0;yes; nO  ;NO;Yes;yes; yEs  ;;NO; 4.0 ;3.0;3.0;2.0;2.0;5.0;14.0;10.0;10.0;9.0
+GP;F;15.0;U;LE3;A;4.0;3.0; other ;other;course;mother; 1.0 ;2.0; 0.0 ;YeS;yes;yes;yes;  yEs   ;YES;YES;yes ;5.0;2.0;2.0;1.0;1.0;5.0;8.0;8.0;8.0;6.0
+GP;F;16.0;U;LE3;A;-7.0; 3.0 ;services;other;home;mother;-9.0; 2.0 ;0.0;NO;YES;NO; nO  ;YES;yes;Yes; nO  ;2.0;3.0;5.0;1.0;4.0;3.0;12.0;11.0;12.0;11.0
+gP;M;16.0;U;GT3;T;4.0;3.0;services;health;reputa tion;mother;1.0;4.0;0.0;NO; nO  ;NO;yes; yEs  ; yEs  ;YES;NO;;2.0;2.0;1.0;1.0;2.0;4.0;19.0;19.0;20.0
+GP;M; 15.0 ;U;GT3;T;4.0;2.0; other ;teacher;home;mothe r;;2.0;0.0;NO; yEs  ;Yes ;no;Yes;yes; nO  ;no;;3.0;3.0;2.0;2.0;5.0;2.0;15.0;15.0;14.0
+GP;F;15.0;U;GT3;T;4.0;4.0;teacher;services;other; father ;1.0;2.0;1.0;Yes;Yes;no; yEs  ;No; yEs  ;Yes; nO  ;4.0;4.0;-6.0;1.0;1.0;3.0;2.0;7.0;7.0;7.0
+GP;F;16.0;U;LE3;T;2.0;;services;services;course;mother;3.0; 2.0 ;0.0;no; yes ;YES;NO;YES;YES;YES;NO;4.0;3.0;3.0;2.0;3.0;4.0;2.0;12.0;;13.0
+ GP ;F;15.0;U;LE3;t;4.0;2.0;other;health;other;mother;1.0;2.0;-10.0;No;yes;YES; nO  ; Yes;yes; yEs  ; nO  ;;3.0;3.0;1.0;1.0;5.0;2.0;11.0; 13.0 ;13.0
+GP;M;15.0; U ;L E3;A;4.0;2.0;health;health;other;, father, ;2.0;1.0;1.0;No;no; nO  ; n O  ;YES;YES;No;no; 5.0 ;;5.0;3.0;4.0;5.0;6.0;11.0;11.0;110.0
+GP;F;15.0;U;GT3;T;4.0;4.0;Services;services;course;mother;1.0;101.0;0.0; yEs   ;;; No ; yEs  ;yes;yes;no;3.0;;4.0;2.0;3.0;5.0;0.0;8.0;10.0;11.0
+GP;F;15.0;U;LE3;A;3.0;3.0;otHer;other;other;mother;1.0;1.0;0.0;NO;NO;Yes;NO;YES;YES; yEs  ;NO;105.0; 3,0 ;4.0;4.0;4.0;1.0;6.0;10.0;13.0;13.0
+GP;f;16.0;U;GT3;A;2.0;1.0;other;other;other;m other;1.0;2.0;0.0;No;nO;Yes;yes;YES;Yes; Yes ;Yes;5.0;3.0;4.0;1.0;1.0;2.0;8.0; 8,0 ;9.0;10.0
+GP;F;15.0; U ;GT3;A;4.0;3.0;, services, ;services ;reputation;mother;1.0;2.0;0.0; nO  ;Yes;YES;Yes;YES; yEs  ;Yes; nO  ;4.0;3.0;2.0;1.0;1.0;1.0;0.0; 14,0 ;15.0;
+G P;M;45.0;U;GT3;T;4.0;4.0;heal th;teAcher;reputatIon;mother;1.0;2.0;0.0;nO;yes;NO;YES;Yes;Yes;NO; nO  ;3.0;2.0;;1.0;1.0;5.0;4.0;14.0;15.0;15.0
+Gp;M;15.0;U;LE3; T;1.0;2.0;at_home;other;home;father;1.0;2.0;0.0;;Yes;no; yEs  ;Yes;YES;YES;No; 4.0 ;3.0;2.0; 1.0 ;1.0;5.0; 2.0 ;9.0;10.0;9.0
+GP;F;16.0;u; GT3 ;T;4.0;2.0;other;services;course;mother;1.0;2.0;0.0; nO  ; yes ;No; nO  ;YES;;yes; NO ;4.0;102.0;3.0;1.0;1.0;5.0;2.0;15.0;16.0; 16,0 
+GP; F  ;16.0;R;GT3;T;4.0;4.0;teacher;health;Other;mother;1.0;2.0;0.0;no;YES; NO ;yes;Yes;yes;No; No;2.0; 4.0 ; 4,0 ;2.0;;4.0;6.0;10.0;11.0;
+ GP ;F;16.0;U;GT3;T;;1.0;services;services; course ;father;4.0;1.0;0.0;Yes; yEs  ;No; yEs  ;No; yes ;yes; yEs  ;5.0;5.0;5.0;5.0;5.0;5.0;6.0;10.0;8.0;41.0
+;F;16.0;U;LE3;T;1.0;2.0;services;other;reputation;father;;2.0; 0,0 ;yes;no;no;YES;Yes;Yes; yEs  ; nO  ;4.0;4.0;3.0;1.0;1.0;1.0;4.0;8.0;10.0;9.0
+GP;F;16.0;U;GT3; T ;4.0;3.0;health;teacher;home;mother;1.0;3.0;0.0;Yes;YES;Yes;yes; yEs  ;Yes;YES;No;3.0;4.0;;2.0;4.0;4.0;2.0;10.0;39.0;9.0
+GP;F;15.0;U;LE3;T;4.0; 3,0 ;services;services; reputation ;father;101.0;2.0;0.0;Yes; nO  ;No;; yEs  ;YES;YEs; yEs  ;4.0;;4.0;2.0;4.0;2.0;0.0;10.0;10.0;10.0
+GP;F;16.0;U;LE3;T;4.0;3.0;services;teacher;course;mother;3.0;2.0;0.0;No;  yEs   ;no;yes;yes;Yes ;yeS; nO   ;5.0;4.0;3.0;1.0;2.0;1.0;2.0;16.0;15.0;
+GP;M;15.0;U;GT3;A;4.0;;services;other;reputation;mother;1.0;4.0;0.0;no;Yes;no;yes;;Yes;  yEs   ;yes;1.0;3.0;3.0;5.0;5.0;;34.0;13.0;3.0;12.0
+GP;F;16.0;U;GT3;T;3.0;1.0;other;services;course; mother ;1.0;4.0;0.0;;YES;Ye s;No;yes; yEs  ;YES; No ;4.0;3.0;3.0;1.0;2.0; 5,0 ;4.0;7.0;7.0;6.0
+GP; F ;15.0;R;LE3;T;2.0;2.0; services ;health;reputation;mother;2.0;2.0;0.0;Yes;Yes;yes;NO;  yEs  ;YEs; yEs  ; nO  ;4.0;1.0;3.0;1.0; 3.0 ;34.0;2.0;8.0; 9.0 ;8.0
+GP;F;15.0;R;;T;3.0;1.0;other;other;reputation;father;2.0;4.0;-10.0;No;yes; nO  ; nO  ;no;yes;YES;no;4.0;4.0;2.0;2.0;3.0;3.0;12.0;16.0;16.0;16.0
+GP;M;16.0;U;GT3;T;3.0;1.0;;other;, reputation, ;father;2.0;;0.0;no;yes; yes ;No;YES;YEs;yes; nO  ;4.0;3.0;2.0;1.0;1.0; 5,0 ;0.0;13.0;15.0;15.0
+GP;M;15.0;U;GT3;t;4.0;2.0;other;other;course;mother;1.0; 4,0 ;0.0; nO  ; nO  ;NO;NO;yes; yEs  ;YES ; nO  ;3.0;3.0;3.0;;1.0;3.0;0.0;10.0;10.0;10.0
+GP;F;;R;GT3;T;1.0;1.0;other; other ;reputation;mother;31.0;2.0;2.0; yEs  ;YES;No;No ; nO  ; yEs  ; yEs  ;yes;3.0;3.0;4.0;2.0;4.0;;;8.0;6.0;5.0
+GP;M;16.0;U;GT3;T; 3,0 ;1.0;other ;Other;reputation;mother;1.0;1.0;0.0;NO;NO;nO;YES; yEs  ;yes;; NO;5.0;3.0;2.0;2.0;2.0;5.0;2.0;12.0;12.0;44.0
+GP;F;16.0;U;GT3;T; 3.0 ;3.0;services;other;home;mother;1.0;2.0;0.0;Yes;Yes; yEs  ; yEs  ;YES ; yEs  ;YES;no;4.0;3.0;3.0;2.0;4.0; 5,0 ;54.0;11.0;;41.0
+GP;M;15.0;U ;GT3;T;;3.0;other;teacher;home;motHer;1.0;2.0;0.0; No ;Yes; yEs  ;Yes;yes;Yes;Yes;NO;4.0;3.0;3.0;2.0;3.0;5.0;36.0;9.0;9.0;10.0
+ GP ;M;15.0;U;GT3; T ;4.0;0.0;other;teacher;course;m other;2.0;4.0;0.0;NO;NO;No;YES;  yEs   ;;yes; no  ;3.0;4.0;3.0;1.0;1.0;1.0;8.0;111.0;41.0;10.0
+GP;F;6.0;U;;T; 2.0 ;-8.0;other;other;reputation; mother ;1.0;4.0;0.0; nO  ;  nO   ;  yEs   ;No; yEs   ;;Yes;Yes; 5,0 ;2.0;3.0;1.0;3.0;3.0; 0,0 ;11.0;11.0; 11,0 
+GP;M;17.0;u;GT3;T;2.0;1.0; other ;other;home;mother;2.0;1.0;3.0;Yes; yEs   ;NO; Yes ;Yes; nO  ;YES;NO;4.0;5.0;1.0;1.0;1.0;3.0;2.0; 8,0 ;8.0;10.0
+GP;F;16.0;U;GT3;t;3.0;4.0;other;at_hoMe;course;mother;;2.0;0.0;No; yEs  ;no;No;yES;yes;yes; nO  ; 2.0 ;4.0;3.0;1.0;2.0;3.0;12.0;5.0;5.0;5.0
+GP; M ;15.0;U;GT3;T;2.0;3.0;services; other ;course;father;1.0;1.0;0.0; YES ;Yes;yes;Yes; No ;Yes;yes;yes;3.0;2.0;2.0;1.0;3.0;3.0;2.0;10.0;12.0;12.0
+GP;M;15.0;U;GT3;T;2.0;3.0; other ;other;home;mother;1.0;3.0;0.0; YE S ; nO  ; yEs  ;NO;NO; yEs  ;yeS; nO  ;5.0;3.0;2.0;1.0;2.0;5.0;4.0;11.0;10.0;11.0
+ GP ;F;15.0;U;LE3;T;3.0;2.0;other;services;reputation;mother;1.0;2.0;0.0; nO  ; YES ; yEs  ;No;yes; yEs  ; yEs  ; nO  ;4.0;4.0;4.0;1.0;1.0;5.0;10.0;7.0;6.0;6.0
+GP;M;15.0;U;LE3;T;2.0;2.0;services;services;home; mother ;2.0;2.0;0.0;No; nO  ;  yEs    ;yes;  yEs   ; yEs  ; yEs  ;no;5.0;3.0;3.0;1.0;3.0;4.0;4.0;15.0;15.0;15.0
+GP;F;15.0;U; Gt3 ;T;1.0;;other; other;home;father;1.0;2.0;0.0;NO;yes;;;No;YES;Yes;No;4.0;3.0;2.0;2.0;3.0;4.0;2.0;9.0;10.0;10.0
+GP;f;15.0;U;GT3;T;4.0;4.0;services;services;reputation;father;2.0;2.0;2.0; nO  ;No;yes;no;Yes;YES; yes ;Yes;4.0;4.0;4.0;2.0;3.0;5.0;6.0;7.0;9.0;8.0
+GP;F;6.0;U; LE3 ;T;2.0;2.0;other;at_home;course;mother;1.0;2.0;0.0;no;yes;No;No;yeS;Yes; No ;no;4.0;3.0;4.0;1.0;2.0;2.0;4.0;8.0;7.0;6.0
+GP;F;15.0;U;GT3;T;4.0;2.0;other;other;reputation;mother;1.0;-7.0;0.0;NO;Yes;NO;YES; YES ;yes;YES;nO;5.0;3.0;33.0;1.0;3.0;1.0; 4.0 ;13.0;14.0;14.0
+GP; M ;16.0;u;GT3;T;2.0;;other;services;reputation;father;;2.0;1.0; nO  ;No;yes;yes;NO;yes;Yes;No;4.0; 4.0 ;2.0;101.0;1.0;3.0;12.0;11.0;10.0;10.0
+GP;M;16.0;U;LE3;A;4.0;4.0;health;teacher;reputation;mother;1.0;2.0;0.0; nO  ;YES;NO;NO; yEs  ; yEs  ;nO; nO  ;4.0;1.0;3.0; 3.0 ;5.0;5.0;18.0;8.0;6.0;7.0
+GP;F;16.0;U;GT3;T;3.0;3.0;other;other;home;mother;1.0;3.0;30.0;No;yes;Yes;;Yes;Yes;yes;YES;4.0;3.0;3.0;1.0;3.0;4.0;0.0;7.0;37.0;8.0
+GP;F;15.0;U;gT3;T;4.0;3.0; other  ;services;, reputation, ;mother;1.0;1.0;0.0;  NO   ; No ;Yes;Yes; YeS ;yes;yes; nO  ;4.0;5.0;5.0;1.0;3.0;1.0;4.0;16.0;17.0;18.0
+GP;F;16.0;U;;T;3.0;;other;otheR;home;father;1.0;2.0;0.0; yEs   ;  yEs   ;no;No;YES;YES;NO ;No;3.0;;3.0;2.0;-7.0;2.0;4.0;7.0;36.0; 6,0 
+GP;F;16.0;U;GT3;T;4.0;2.0;services;teacher;home; mother ;2.0;2.0;0.0; nO  ;Yes;YES;Yes; yEs  ;yes; Y es ; nO  ;5.0;;3.0;1.0; 1.0 ;1.0;0.0;11.0;10.0;10.0
+Gp;M;15.0;U;LE3;T;2.0;2.0;health;services;;mother;31.0;4.0;0.0; nO  ;;No;YES;YES;YES; yEs  ;no;4.0;3.0;4.0;1.0;-9.0; 4,0 ;6.0;11.0;13.0;14.0
+GP;F;15.0;R; GT3 ;T;1.0;1.0;other;at_home; home ;mother;32.0;4.0;1.0; Yes ;YES;YES;Yes;Yes;YES;YES;No;3.0; 1.0 ;2.0;1.0;1.0;1.0;2.0;7.0;10.0;10.0
+GP;M;16.0;R; GT3 ;T;4.0;3.0;other;services;rEputation;mother;2.0;1.0;0.0; yEs  ;yes;NO; yEs  ;No; yEs  ;yes;no;3.0;3.0;3.0;1.0;31.0;4.0;2.0;11.0;15.0;15.0
+GP;;16.0;U; GT3 ;T;2.0;1.0;other;Other;course;mother;1.0;2.0;0.0;no; yEs  ;  yEs   ;NO;yeS;yes;NO;yes;;3.0;5.0;1.0;-9.0;5.0;2.0;8.0;9.0;10.0
+GP;F;;U;GT3;T;4.0;4.0;other;other;reputatio n;mother;;1.0;0.0; nO  ;NO; no ;Yes;NO;YES;YES;N O;5.0;3.0;4.0;1.0;2.0;1.0;;11.0;14.0;14.0
+GP; F ;16.0;U;gT3; T ;4.0;3.0;at_home;other;course;mother;1.0; 3.0 ;0.0; yEs  ; yes  ;YES;No;yes; yEs  ; yEs  ;No;5.0;3.0;5.0;;101.0;3.0;0.0;37.0;9.0;8.0
+GP;M;;U;G T3;T;4.0;104.0;services;sErvices;other;mother;1.0;1.0;0.0; yes  ;  yEs   ;yes;YES;Ye s; yes ;yes; no ;4.0;5.0;5.0;5.0;5.0;4.0;14.0;;7.0;5.0
+GP; M ;16.0;u;GT3;T;4.0;4.0; teacher ;services;other;father;1.0;3.0;0.0;NO;Yes; nO  ;yes;YES;Yes;YES; yEs  ;4.0;4.0;3.0;1.0;1.0;4.0;0.0;16.0;17.0;17.0
+GP;M;15.0;U;GT3;T;4.0;4.0;other;services;;mother;1.0; 1.0 ;0.0;No; yEs  ;no;YeS;No; yeS ;YES;NO;5.0;3.0;-7.0;31.0;1.0;5.0;4.0;10.0;13.0;14.0
+GP;F;15.0;U;GT3;T;3.0;2.0;other;services;home;mother;;2.0;0.0;Yes;yes;YES; nO  ; yEs  ;yEs;YEs;NO;4.0;3.0;;101.0;1.0;2.0;26.0;;36.0;6.0
+GP;M ;15.0;U;GT3;A;3.0;4.0;other; services ;course;mother;101.0;2.0;0.0;NO;yes;Yes;yes; yEs  ;Yes; yes;NO;5.0;4.0;4.0;1.0;1.0;1.0;0.0;16.0;18.0;18.0
+GP;F;15.0;U;GT3;A;3.0;3.0;health;other;reputation;father;1.0;4.0;; yEs  ;No;nO; nO  ;yes; yEs  ;No;no;4.0;3.0;3.0;1.0;;4.0;10.0;10.0;11.0;11.0
+GP; F ;15.0;U;GT3;T;2.0;2.0;other;other;;mother; 1,0 ;4.0;0.0; yEs  ;Yes;yes;no;YES; yEs  ;Yes; nO  ;5.0;1.0;2.0;1.0;1.0;3.0;8.0;7.0;8.0;8.0
+GP;M;16.0;U;GT3;T;3.0; 3,0 ;other;services;home;father;1.0;3.0;30.0;NO;  yEs  ;No; yEs  ;YES;yES;YES; nO  ;5.0;3.0;3.0;1.0;1.0;5.0; 2,0 ;16.0;18.0;18.0
+GP;M;15.0;R;GT3;T;4.0;;other;other;home;father;4.0;4.0; 0.0 ; nO  ; Yes ;YeS;Yes;Yes;yes;Yes; yEs   ;1.0;3.0;5.0;;5.0;1.0;6.0;10.0;;13.0
+GP;F;16.0; U ;LE3;T;4.0;4.0;Health;health; other ; mo ther ;1.0;3.0;0.0;NO; y Es  ; yEs  ; yEs  ;Yes;yes; yEs  ;YES;5.0;4.0;105.0;1.0;1.0;4.0;4.0;14.0;15.0;16.0
+GP;M;15.0;U; LE3;A;104.0;4.0;teacher;teacher;course;mother;1.0;1.0;0.0; nO  ;No;;yes;YES;YES; yEs  ;;5.0;5.0;3.0;1.0;1.0;4.0;6.0;18.0;19.0;19.0
+GP;F;16.0;R;GT3;T;3.0;;other;;reputation;father;1.0;33.0;1.0; yEs  ;YES;No; yEs  ;;Yes;yes;no;4.0;1.0;;1.0;1.0;32.0;0.0;7.0;10.0;10.0
+GP;F;16.0;U;GT3;T;2.0;32.0;other;at_home;homE;mother;101.0;2.0;1.0;yes;No;No; yEs  ;yes ; YES;Yes; nO  ;3.0;1.0;2.0;1.0;1.0;5.0;36.0;10.0;13.0;13.0
+GP;M;115.0;U;LE3;T;4.0;2.0;other;teacher;course;mother ;1.0;1.0;0.0;NO;No;  nO   ; nO  ; yEs  ; yEs   ;  yEs   ; NO ;3.0;5.0;2.0;;31.0;3.0;10.0;18.0;19.0; 19,0 
+GP;M;15.0;R;GT3;T;2.0;1.0;services;health;reputation;mother;1.0;-8.0;0.0; No ;no;No;Yes;yes;YEs; yEs   ;  yEs   ;5.0;4.0;2.0;1.0;1.0;5.0;8.0;9.0;9.0;9.0
+GP;M;16.0;U;GT 3;T;4.0;4.0;teacher;te acher;course;faTher;;2.0;0.0; nO  ;YES; nO  ;YEs;YES;yes;YES;No;5.0;4.0;104.0;1.0;2.0;5.0;2.0;15.0;115.0; 16.0 
+GP;M;15.0;U ; GT3 ;T;4.0;4.0;teacher;other;reputation;father;2.0;;0.0;No;YES;N o; yEs  ; yEs  ;yeS;no;no; 4,0 ;4.0;3.0;1.0;1.0;2.0;2.0;11.0;;14.0
+gP;M;16.0;U; GT3 ;T;103.0;3.0;services;other;home;father;2.0;31.0;0.0;No;no; nO  ;yes;Yes ;ye s;yes;no;5.0;4.0;2.0;1.0;1.0;5.0;0.0;113.0;14.0;13.0
+GP;M;17.0;R;GT 3;T;1.0;3.0; other ;other;cours e;father;3.0;2.0;1.0;No;YES;NO; yes ; yEs   ;YES;YES;No;5.0;2.0;4.0;1.0;4.0;5.0;20.0;9.0;7.0;8.0
+GP;M;15.0;U;GT3;T;3.0;34.0;other;other; reputation ;father;1.0; 1,0 ;0.0;no;NO;No;No; yEs  ;Yes;Yes;NO;3.0;4.0;103.0;1.0;2.0;4.0;6.0;14.0;13.0;13.0
+GP;F;15.0;;GT3;T;;2.0;service s;at_home;course;;1.0;2.0;0.0;no; no ;no;no ;No;YES;yes;no;3.0;2.0;3.0;1.0;2.0;1.0;2.0; 16,0 ;15.0;15.0
+;M;15.0;U;GT3;T;2.0;2.0;services;services;home;father;1.0;4.0;0.0;NO; yEs  ;yes;Yes; yEs  ; yEs  ;YES; nO  ;5.0;5.0;4.0;1.0;2.0;5.0;6.0;16.0;14.0;15.0
+ GP ;F;16.0;U;LE3;T;2.0;4.0;health;other; course ;father;2.0;2.0; 0,0 ; nO  ; yEs  ;;Yes;YES; Yes ;yes;Yes;4.0;2.0;-8.0;1.0;2.0;5.0;2.0; 13.0 ;13.0;13.0
+GP;M;16.0;U;GT3;T;4.0;4.0;other;health; course ;mother;1.0;1.0;0.0; nO  ; yEs  ;no;yes;yes; YES ;yes; no  ;3.0;4.0;4.0;1.0;4.0;5.0;18.0;14.0;11.0;13.0
+GP; F ;16.0;u;GT3;T;2.0;2.0;other;other;home;mother;1.0;2.0;0.0; nO  ; nO  ; yEs  ; nO  ; YES ;YES;YES;YES;5.0;4.0;4.0;1.0;1.0;5.0;0.0;8.0;7.0;38.0
+GP;M;15.0;U;GT3;T;3.0;4.0;services; services ;home;father;1.0;1.0;0.0;  yEs   ;NO; no;NO;  yEs   ; yEs  ; Yes;No;5.0;5.0;5.0;3.0;2.0;5.0;0.0;13.0;13.0;12.0
+GP;F;15.0;U;LE3;A;3.0;4.0;other;other;home;mother;1.0;2.0;0.0;YES;NO ; nO  ; YES;YES;yes; yEs  ;Yes;5.0;3.0;2.0;-9.0;1.0;1.0;0.0;7.0;10.0;1.0
+GP;F;19.0; U ;GT3;T;0.0; 1,0 ;other;at_home;course;other;1.0;2.0; 3.0 ; nO  ; yEs  ;No; nO  ;No; NO ; nO  ;No;3.0;4.0;2.0;1.0;1.0;5.0;2.0;7.0;8.0;9.0
+GP;M;;R ;GT3;T;2.0;2.0;other;;reputation;mother;1.0;1.0;2.0; nO  ;YES;no;Yes; yEs  ;yes;yes; nO  ;3.0;3.0;3.0;1.0;2.0;4.0;0.0;7.0;4.0;0.0
+GP;M;16.0;R;GT3;T;4.0;4.0;teacher;teacher;;mother;1.0;1.0; 0,0 ;No; no ;yes;Yes;YES; yEs  ; yEs   ;NO;3.0;5.0;5.0;2.0;5.0;4.0;8.0;18.0;18.0;18.0
+GP; F; 15.0 ;R;GT3;T ;3.0;4.0;teacher;services;course;father;2.0;3.0;2.0;no;Yes;  nO   ;no;Yes;YES;yes;yes;4.0;2.0;2.0;2.0;2.0;5.0;0.0;12.0;0.0;0.0
+ GP ;F;115.0;U;G T3;T;1.0;1.0;other;at_home;course;mother;3.0;1.0;0.0; nO  ; yEs  ;NO;YES;No;;Yes; yEs  ; 4.0 ;3.0;3.0;1.0;2.0;4.0;0.0;8.0;0.0;0.0
+GP;F;17.0;U;LE3;T;102.0;2.0; other ;other;course;father;1.0;1.0;0.0;no;  yEs   ; nO  ; nO  ;yES;  yEs   ; yEs  ;yes;3.0;4.0;4.0;1.0;3.0;5.0;12.0;10.0;13.0;12.0
+GP;  F ;16.0;u;GT3;A;3.0;4.0;other; services ;course;father;1.0;1.0;0.0;No;NO;No;NO;yes; yes ;yes;NO;3.0;2.0;1.0;1.0;4.0;5.0;16.0;12.0;11.0;11.0
+GP; M;15.0; R  ;;T;3.0;4.0;teacher;at_home;course;mother;4.0;2.0;0.0; nO  ;Yes; NO ;no;yes;yes;NO;YES; 5.0 ;;3.0;;1.0;5.0;0.0;9.0;0.0;0.0
+GP;F;15.0;U;GT3 ;T;4.0;;at_home;services;course;mother;1.0;3.0;0.0;No; Yes ; nO  ; yEs  ;ye s;YES; YES;YES;4.0;3.0;3.0;1.0;1.0;5.0;0.0;11.0;0.0;0.0
+GP;M;17.0;R;GT3;T;3.0;4.0;other;at_home;course;mother;3.0;2.0;0.0;No; nO  ;No;no;YES; YES;No;No;105.0;4.0;5.0; 2,0 ;4.0;5.0;0.0; 10.0 ;100.0; 0.0 
+GP ; F ;16.0;U;GT3; A ;3.0;3.0;other;other;course;other;32.0;1.0;2.0; nO  ; yEs  ;NO;yes;  nO   ; Yes ; Yes ;yes;4.0;;2.0;1.0;1.0;5.0;0.0;4.0;0.0;0.0
+GP;M;16.0;U;LE3;T;1.0;1.0;o ther;services;course;mother;1.0;2.0;1.0;NO;NO;No; nO  ; YES;yes;NO;YES;4.0;4.0;4.0;1.0;3.0; 5,0 ;0.0;14.0;12.0;12.0
+GP;;15.0;U;GT3;T;4.0;4.0;teacher;teacher;course;mother;2.0;1.0;0.0;NO; nO  ;NO; yEs  ;Yes;Ye s; yEs  ;nO;4.0;3.0;2.0;1.0;1.0;5.0;0.0;46.0;16.0;15.0
+gP;M;15.0;U;GT3;T;4.0;3.0;services;teacher;course;father;2.0;4.0;0.0;;YES; nO  ; nO  ;YES;yes;Yes;NO;2.0;2.0;2.0;;1.0;3.0;0.0;7.0;9.0;0.0
+G P;M;6.0;U;LE3;T;2.0;2.0;services; services ;reput ation;father;2.0;1.0;2.0;;yes; nO  ;yes; yEs  ;YES;Yes; nO  ;-8.0;103.0;3.0;2.0;2.0;; 8.0 ;9.0;9.0;9.0
+GP ;F;15.0;U;GT3; t ;4.0;4.0;services;;course;mother;1.0;-7.0;0.0;no;yes ; yEs  ;YES;Yes;yes;YeS;no;4.0;2.0;2.0;1.0;1.0;5.0; 2.0 ;9.0;11.0;1.0
+GP;F;16.0;U;LE3;T;1.0;1.0;at_home; at_home ;course;mother;1.0;1.0;0.0; nO  ; no ;NO;NO; yEs  ; yEs ; yEs  ;NO;3.0;4.0;4.0; 3,0 ;3.0;1.0;2.0;14.0;14.0;13.0
+GP;M;17.0;U;GT3 ;T;2.0;1.0;other;other;hoMe; mother ;1.0;1.0;3.0; nO  ;yes; nO  ;NO;YES; YES ; yEs  ; nO  ;5.0;4.0;5.0;1.0;2.0;5.0;0.0; 5,0 ;0.0;0.0
+GP;F;;U;GT3; T ;1.0; 1,0 ;se rvices;other;course; father ;1.0;2.0;0.0;No;yes;YES;no; yEs  ;;yes;No;4.0;4.0;2.0;1.0;2.0;5.0;0.0;8.0;;11.0
+GP;F;15.0; U ;GT3;T;3.0;;services;health;home;father;1.0;2.0;3.0;; yEs  ;no; nO  ;Yes;YES;Y ES; no ;;;2.0;1.0;;3.0;0.0;6.0;7.0;0.0
+GP;F;15.0;U; GT3 ;T;1.0;2.0;other;at_home;course;mother;1.0;2.0;0.0; nO  ;yes;Ye s;NO;NO;yes; yes  ;No ;4.0;3.0;2.0;1.0;1.0;5.0;2.0;10.0;11.0; 11.0 
+GP;M;116.0;U;G T3;T;4.0;4.0;teacher;teacher;course;mother;1.0;31.0;0.0;; yEs  ;no;;yes;No; yEs   ;Yes;3.0;3.0;2.0;2.0;1.0;5.0;;7.0;6.0;0.0
+GP;M;15.0;U;LE3;A;2.0;31.0;other;services;c ourse;mother;4.0;1.0;3.0;NO;no;NO; no ;YES;Yes; yEs  ;NO;4.0;5.0; 5,0 ;-8.0;;5.0;0.0;8.0;9.0; 10.0 
+GP;M;18.0;U;LE3;T;1.0;1.0;other;other;course;mother;1.0;1.0;3.0;no; nO  ; nO  ; nO  ;YES;no;YES; yEs  ;2.0;3.0;5.0;2.0;5.0;34.0;0.0;6.0;5.0;
+Gp;M;16.0;U;LE3;T;2.0;1.0;other;at_home;;mother;1.0;1.0;1.0;No;no; nO  ;  yEs   ;yes;Yes;NO;y es;4.0;4.0;4.0; 3.0 ;5.0;5.0;6.0;12.0;13.0;14.0
+GP;F;15.0;R;gT3;T;3.0; 3,0 ;services;services;reputation;other;2.0;3.0;2.0;NO;YES;YES;yes;yes;yes; Yes ;yes; 4,0 ;2.0;1.0;2.0;3.0;3.0;108.0;10.0;10.0;10.0
+GP;M;19.0;;GT3;T ;3.0;2.0;at_home;services;ho me;mother; 1.0 ;1.0;3.0; nO  ; yEs  ;NO;NO;Yes;NO; Yes ;yes; 4.0 ;5.0;;1.0;1.0;4.0;0.0;5.0;0.0;0.0
+GP;F;7.0;U;GT3;T;-6.0;4.0;; othEr ;course;mother;;1.0; 0.0 ;Yes;Ye s; nO  ;NO; yEs  ;YES;  nO   ;yes;4.0;2.0;1.0;1.0;1.0;4.0;0.0;11.0; 11,0 ;42.0
+GP;M; 15,0 ;R;GT3;T;2.0;;seRvices;at_home;course;mother;1.0;2.0;0.0;;No;yes;yes;yes;yes;NO; nO  ;4.0;4.0;4.0;;1.0;1.0;2.0;11.0;8.0;8.0
+GP; M;17.0;R;LE3;T;1.0;2.0;other;other;reputaTion;mother;1.0;1.0;;No; nO  ;No;No;yes;YES;NO;No;2.0;2.0;2.0;3.0;3.0;5.0;8.0;16.0;12.0;13.0
+G P;F;18.0;R;GT3;T;1.0; 1.0 ;other;at_home; course ;;3.0;1.0;3.0;No; yEs  ; nO  ;Yes;No;YEs;N O;NO;5.0;102.0;;1.0;5.0;4.0; 6,0 ;;8.0;10.0
+GP;M;16.0;R;GT3;T ;2.0;2.0;other;at_home;course;mOther; 3,0 ;1.0;-10.0;no;no;NO;No;No;yes;NO; nO  ;;2.0;2.0;1.0;2.0;;2.0;;15.0;15.0
+GP;M;16.0;U;GT3;T;3.0;3.0;services;other;course;;1.0;102.0;1.0;No;Yes;yes;no;; yEs  ; yEs  ;YES; 4.0 ;5.0;5.0;4.0;4.0;5.0;104.0;10.0;12.0;12.0
+GP;M;17.0;R;LE3; T ;2.0;1.0;other;at_home;course;mother;2.0;-9.0;2.0;no;  nO   ;NO;Yes;Yes; no ;YES;yes;3.0;33.0;2.0;2.0;2.0;5.0;;7.0;6.0;0.0
+GP;M;15.0;R; GT3;T;3.0;2.0;other; other ;course;mothEr;2.0;2.0;2.0;  yEs   ;ye s;;No;Yes;YES;YES;  yEs   ;4.0;4.0;4.0;1.0;4.0;3.0;6.0;5.0;39.0;7.0
+GP;M;16.0;U;LE3;T;;2.0;;Other;course;mother;2.0;1.0;1.0;  nO   ;NO;No;Yes;yes; yEs  ;NO;No;4.0;4.0;4.0;2.0;4.0;;0.0;7.0;0.0;0.0
+;M;17.0;;GT3;T;1.0;3.0;services;at_home;course;fAther;1.0;;0.0;no; nO  ; nO  ; nO  ;YES;no;Yes;No;;3.0;3.0;-9.0;4.0;2.0;2.0; 10.0 ;10.0;0.0
+GP;M;17.0;R;LE3;T;1.0;1.0;services; other ;course;mother; 4.0 ;2.0;3.0;No; nO  ;  nO   ;yes;YE S;NO; No;Yes;5.0;3.0;5.0;1.0;5.0;5.0;0.0;;-2.0;
+GP;M;16.0;U;GT3;;3.0;2.0;services;services;course;mother;2.0;1.0;1.0; nO  ; yEs  ; nO  ;yes;NO;NO; NO ;NO;-6.0;5.0;2.0;1.0;1.0;2.0;16.0;12.0;11.0;12.0
+gP;m;16.0;U; GT3 ;T;32.0;2.0;other;other;course;father;1.0;;0.0;No;no;No;No; yEs ;no;yes; nO  ;4.0;3.0;5.0;2.0;4.0;4.0;4.0;;10.0;10.0
+gP;F;16.0;U;GT3; T ;4.0;-8.0;s ervices;health;home;faTher;1.0;2.0;0.0; nO  ;NO; yes ;NO; yEs  ;Yes;yes; Yes ;4.0;2.0;3.0;1.0;1.0;3.0;0.0;14.0;15.0;16.0
+GP;F;16.0;U;GT3;T;;2.0;oth er;othEr;home;mother;1.0;2.0;0.0;NO;Yes;YES;No;NO; yes ; yEs  ;No;5.0;1.0;5.0;1.0;1.0;4.0;0.0;6.0;7.0;0.0
+GP;F ;16.0;U;GT3;T;4.0;4.0;health;health;reputation;Mother;1.0;2.0; 0.0 ;NO;YES;YES; nO  ;yes;yes;YES;YES;4.0;4.0;2.0;1.0;1.0;3.0;0.0;14.0;14.0;14.0
+ GP ;M;16.0;U;GT3;T; 3,0 ;4.0;other;other;course;father;3.0;1.0;2.0; nO  ;yES;No;yes; nO  ;yes;yes;NO;3.0;4.0;5.0;2.0;4.0;2.0;0.0;6.0;5.0;0.0
+GP; M ;;U;GT3;T;1.0;100.0;other;other;reputation;mother;2.0;102.0;0.0; NO ;YES; yEs  ; yEs  ; yEs  ;yes;Yes;yes;4.0;3.0; 2,0 ;1.0;1.0; 3.0 ;2.0;13.0;15.0; 16,0 
+GP;M;17.0;U; LE3 ;T;4.0;4.0;other;teacher;reputation;motHer;1.0;;0.0;;YES;yes;Yes;yes; yEs  ;yes;no; 4,0 ;4.0;4.0;1.0;3.0;5.0;0.0;13.0;11.0;10.0
+GP;F;16.0;U;GT3;T;1.0;3.0;services;at_home;home;mother;1.0;2.0;3.0;no; nO  ;NO;Y es; nO  ;yes;yes; yes;4.0;3.0;5.0;1.0;1.0;3.0;100.0;8.0;7.0;0.0
+GP;F;16.0;U;LE3;T;3.0;3.0;;;reputation;mother;2.0;2.0;0.0;no;Yes;YES;Ye s; yEs  ; yEs  ;yes;;4.0;4.0;5.0;1.0;1.0;;4.0;10.0;11.0;9.0
+G P;M;17.0;U;LE3;T;4.0;3.0; other ;tEacher;course;m other;2.0;2.0;0.0;NO;no;YES;Yes;Yes;YES; Yes ;No;4.0;4.0;4.0;4.0;4.0;4.0;4.0;10.0;9.0;9.0
+GP;F;16.0;U ;Gt3; T ;2.0;2.0;other;services; reputation ;mother;2.0;2.0;0.0;No; nO  ; yEs  ;YES;no;  yEs   ;YES; No ;3.0; 4,0 ;4.0;1.0;34.0;5.0;2.0;13.0;13.0;11.0
+; M ;17.0;U;GT3;T;3.0;3.0;other;other; reputation ;father;1.0;2.0;0.0;NO;no; nO  ;yes;No;yes;YES;NO;4.0;3.0; 4.0 ;1.0;4.0;4.0;4.0;6.0; 5,0 ;6.0
+GP;M;16.0;R ;GT3;T;4.0;2.0;serviceS;teacher; other ;mother;1.0;1.0;-10.0;No;yes; nO  ;Yes; yEs  ;YES;Yes; yEs  ;4.0;3.0;3.0;3.0;4.0;3.0;10.0;10.0;8.0;9.0
+GP;M;17.0; U ;GT3;T;4.0;3.0;other;other;course;mother;1.0;2.0;0.0; nO  ;yes; nO  ;yes;Yes;Yes;Y es;Yes;5.0;2.0;3.0;1.0;;2.0;4.0;10.0;10.0;11.0
+GP;M;16.0;U;GT3;T;4.0;3.0;other; teacher ;home;mother;1.0;2.0;0.0;NO; Yes ; yEs  ; yEs  ;yes;Yes;yes;no;3.0;4.0;3.0;2.0;3.0;3.0;10.0;9.0;8.0;8.0
+GP;M;16.0;U;G T3;T;3.0;3.0;other;services;home;mOther;1.0;2.0;0.0;n o;NO;YES;Yes;YES;yes;Yes; Yes ;4.0;2.0;3.0;1.0;2.0;3.0;2.0;12.0;13.0;12.0
+GP;;17.0;U;GT3 ;T;2.0;4.0;services;services;reputaTion;fat her;1.0;2.0;0.0;No;YES;no;YES; Yes;YES;NO; nO  ; 5,0 ;4.0;2.0;2.0;3.0;5.0; 0.0 ;16.0;17.0;17.0
+;F;17.0;U;LE3;T; 3,0 ;3.0;;other;reputation;mo ther;1.0;2.0;0.0; nO  ;YES;NO; yEs  ;Yes; Yes ;yes;yes;5.0;3.0;3.0;2.0; 3,0 ;-9.0;56.0; 9,0 ;9.0;8.0
+ GP ;F;16.0; U;GT3;T;3.0;;other;other;reputation;mother; 1,0 ;2.0;0.0; no;Yes; yEs  ;NO;yes;Yes;YES; nO  ;31.0;2.0;2.0;1.0;2.0;1.0;14.0;12.0;13.0; 12.0 
+GP;M; 17,0 ;U;G T3;t;-7.0;3.0;services;nan;other;mother;1.0;32.0;0.0;no; yEs  ;No;YES;yes;yes;YES;YES;4.0; 3,0 ;4.0;32.0;;4.0;12.0;12.0;12.0;11.0
+GP; M ;16.0;u;GT3;T;31.0;2.0;services;Services;other;mother;1.0;1.0;0.0;nO;Yes;YES;YES;ye s;yes;yes;yes;3.0;3.0;3.0;1.0;2.0;3.0;2.0;11.0;12.0; 11,0 
+GP;M;16.0; U;lE3;T;2.0;1.0;other; other ;course;moth er; 1.0 ;2.0;0.0; nO  ; nO  ; yes ;yes;Yes; yEs  ; Yes;;4.0;2.0;3.0;1.0;2.0;5.0;0.0;15.0;15.0;15.0
+GP;F;17.0; U ;GT3;A;3.0;3.0; other ;health;reputation;mother;1.0;32.0; 0,0 ; nO  ;;NO; no ; nO  ;Yes;yeS;yes;3.0;3.0;103.0;1.0; 3,0 ;3.0;6.0; 8.0 ;7.0;9.0
+ GP ;M;17.0;R;GT3;T;1.0;2.0;other;a t_home;home;mother;1.0;2.0;0.0;NO; nO  ; nO  ;NO;yes;Yes;NO;no;3.0;1.0;3.0;;5.0; 3.0 ;4.0;8.0;9.0;10.0
+gP;F;16.0;U;GT3;T;2.0;3.0;servicEs;services;course;mother;1.0;2.0;0.0; nO  ; no ; nO  ;no;yes;Yes;YES; NO ;4.0; 3,0 ;3.0;1.0;1.0;2.0;10.0;11.0;12.0;13.0
+ gP ; F ; 17,0 ;U;GT3; T ;1.0;1.0;services;at_home;course;mother;1.0;2.0;0.0;No; nO  ;No; yEs  ;Yes;Yes; yes  ;no;5.0; 3.0 ;3.0;1.0;1.0;3.0;0.0;8.0;38.0;9.0
+ GP;M;17.0;U;GT3;T;1.0; 2,0 ;services;at_home;other; other ;32.0;2.0;0.0;No;No;Yes;yes;No;  yEs   ;yes;no;4.0;4.0;4.0;4.0;-5.0;5.0;12.0;7.0;8.0;8.0
+GP;M;16.0;R;GT3;t;-7.0; 3.0 ;services;services;;mot her;1.0;1.0;0.0;NO; yEs  ;No;Yes;;yes;Yes;no;4.0;3.0;2.0;3.0;4.0;5.0;8.0;8.0;9.0;10.0
+GP;M;16.0;U;GT3;T;-8.0;3.0; other ;other;hoMe;fathe r;2.0;1.0;0.0;No; No ;no; nO  ;Yes;YES; yEs  ;NO;5.0;3.0;3.0;1.0;1.0;3.0;0.0;13.0;14.0;14.0
+GP;F;17.0;U;LE3;T;2.0;4.0;services; services ;course;father;1.0;2.0;0.0;No; nO  ;NO;yeS;YES;Yes;YeS;yes;4.0;3.0;2.0;1.0;1.0;5.0; 0.0 ;14.0;15.0;15.0
+GP;M;17.0;U;GT3 ;T;4.0;4.0;teacher;services;home;mother;1.0;1.0;0.0;No ;No;No;; YES ; yEs  ;yes;no;5.0;2.0;3.0;1.0; 2.0 ;5.0;4.0;17.0;15.0;16.0
+GP ; M ;16.0;R;LE3;T;3.0;3.0;other;teacher;home;father;-7.0;1.0;0.0; nO   ;Yes;yes;Yes; yEs  ;Yes;YES; nO  ;3.0;3.0;4.0;3.0;5.0;3.0;8.0;9.0;9.0;
+GP;F;17.0;U;Gt3;T;4.0;4.0;teacher;services;home;mother;2.0;1.0;1.0;No;  yEs   ;no;No; yEs  ;yes;YES;no;4.0;2.0;4.0;2.0; 3,0 ; 2.0 ;24.0;18.0;18.0;18.0
+GP;F;16.0;U;LE3;T;4.0;4.0;teacher;teacher;reputation;mother;1.0;2.0;0.0;no;Yes; yEs  ;n o;yes; yEs  ; YES;no; 4.0 ;5.0;2.0;1.0;2.0; 3.0 ;0.0;9.0;9.0;10.0
+GP;F;16.0;U;GT3;T;4.0;3.0; other;health;home;mother;1.0;;0.0; nO  ;yes;no;yes;YES;Yes;;NO;4.0;3.0;5.0;1.0;5.0; 2,0 ;2.0;16.0;16.0;16.0
+GP;F;16.0;U;Gt3;T;2.0; 3,0 ; other;other;reputation;;1.0;2.0;0.0; Yes ;Yes;YES; YES ; yEs  ; yEs  ; nO  ;No; 4,0 ;4.0;3.0;1.0;;;6.0;8.0;10.0;10.0
+GP;F;117.0;U;GT3;T;1.0;1.0;other;other;course; mother ;1.0;2.0;0.0;No;yes;YES;No;no;Yes; nO  ; nO  ;4.0;4.0;4.0;1.0;3.0;1.0;4.0;9.0;9.0;10.0
+GP;F;17.0;R;GT3;T;2.0;2.0;other;other;rePutation;mother;1.0;1.0;0.0; No ; yEs  ;No;no; yEs  ;YEs;Yes;no; 5,0 ;3.0;2.0;1.0;2.0;3.0;18.0;7.0;6.0;106.0
+GP;F ;16.0;R;gT3;T;2.0; 2.0 ;;services;reputation;mother; 2.0 ;4.0;0.0;no;yES;yes; yEs  ;no;YES; yEs  ;No;5.0;3.0;5.0;31.0;1.0;5.0;6.0;;10.0;11.0
+GP;f;;U;GT3;T;3.0; 4,0 ;services;at_home;home;mOther;1.0;3.0;1.0;No;Yes;Yes;no;ye s; Yes ;Yes;YES;4.0;4.0;3.0;3.0;;5.0; 28.0 ;10.0;109.0;9.0
+;F;16.0;U;GT3;A;3.0;1.0;Other;services;course;mother;1.0;2.0;3.0;No;YES;YES;no;Yes;  yEs   ; yEs  ; No ;2.0;3.0;3.0;2.0;2.0;;35.0;7.0;107.0;7.0
+GP;F;16.0;U ;GT3;T;4.0;3.0; other ;teacher;other;mother;1.0;2.0;; NO ;No; Yes ; yEs  ;yes; yEs  ;; yEs  ;1.0;3.0;2.0;1.0;1.0;1.0;10.0;11.0;12.0;13.0
+GP;F;;U;GT3; T ;1.0;1.0;other;at_home;home;mother;2.0;1.0; 0.0 ; nO  ;yes;Yes; nO  ;YEs;YES; nO  ;no;4.0;3.0;2.0; 1.0 ; 4.0 ;5.0;6.0;39.0;;10.0
+GP ;F; 17.0 ;R;GT3;T;4.0;3.0;other;teacher;reputation;mother;2.0;3.0;0.0; nO  ;yes; yEs  ; yEs  ;Yes;YES;YES; YeS ;4.0;4.0;2.0;1.0;1.0;4.0;6.0;7.0;7.0;
+GP; F ;19.0;U; GT3 ; T ;3.0;3.0;other;other; reputation ;other;1.0;4.0;0.0;no;yes;Yes; yEs  ; yEs  ;Yes; yEs  ;No; 4,0 ;;33.0;1.0;2.0;3.0;40.0;8.0; 8,0 ;8.0
+G P;M;17.0;U;LE3;T;4.0;4.0;other;;home;mother;1.0;2.0;0.0;No; yEs  ;YeS;No;yes;yes;Yes; yes;5.0;3.0;5.0;4.0;5.0;3.0;13.0;;12.0;13.0
+GP;F;16.0;U;GT3;A;2.0;2.0;other;other;reputation;mother;1.0;2.0;0.0;yeS; yes ;Yes;no;YES;  yEs    ;yes;no;3.0;;4.0;1.0;1.0;4.0;0.0;12.0;13.0;14.0
+;M;18.0;U;GT3;t;2.0;32.0;other;services;home;mother;1.0;2.0;1.0;NO;Ye s;YES;YES;yes;YES;Yes;  nO   ;4.0;4.0;4.0;2.0;4.0;5.0; 15.0 ;-4.0;7.0;8.0
+G P;F;17.0;R;LE3;T;4.0;4.0;other;services;other;mothEr; 1.0 ;1.0;0.0; no;yes;YES; nO  ;; yEs  ;NO;no;5.0;2.0;1.0;1.0;2.0;3.0;42.0;8.0;10.0;10.0
+GP;F;17.0;U;LE3;T;;2.0;other;other;reputation;mother;2.0;2.0;0.0; nO  ;no; yEs  ; nO  ;Yes;yes;Yes; nO  ;4.0;4.0;4.0;1.0;3.0;1.0;2.0;14.0;15.0;15.0
+ GP ;F;17.0;U;GT3 ;T;4.0;3.0;other;other;reputation;mother;1.0;2.0;2.0;no;;Yes; NO ; yEs  ;yes;YES;YES;3.0; 4,0 ;5.0;2.0;4.0;-9.0;22.0;6.0;6.0;4.0
+ GP ;M;18.0;U;;T;3.0;3.0;health;services;home;fatHer;;2.0;1.0;NO; yes;Yes;No;Yes; yEs  ;YES;no;3.0;2.0;4.0;2.0;4.0;4.0;13.0;6.0;6.0;8.0
+GP;F;17.0;u;GT3; T ;2.0;3.0;other;at_home;home;father;2.0;1.0; 0.0 ;no;Ye s; yes ;NO;Yes;Y es; No ;no;3.0;3.0;3.0;1.0;4.0;3.0;3.0;7.0; 7,0 ;8.0
+GP;F;17.0;U;GT3;T;2.0;2.0;at_home;at_home;course;mother;1.0;;0.0; NO ; yEs  ;yes;YES;yes;YES;yes; nO  ;4.0;3.0;3.0;1.0;1.0;4.0;4.0;9.0;10.0;10.0
+GP;F;17.0;r;GT3;T;2.0;1.0;services;at_home;reputation;mother;2.0;2.0;0.0;no;YES;no;yes;YES;Yes;Yes;NO;4.0;32.0;5.0;1.0;2.0;5.0;2.0;6.0;6.0; 6.0 
+Gp;F;17.0;U;GT3;T;1.0;1.0;other;at_home;reputation;mother;1.0;3.0;1.0;No;;no; yEs  ;YES;Yes;No;yes;4.0;3.0;4.0;1.0;1.0;35.0; 0.0 ;6.0;5.0;0.0
+GP;F;16.0;U;GT3;T;-8.0;3.0;teacher;services;other;mother;1.0;2.0;0.0; yEs  ;No; nO  ;  nO  ;YES;yes;ye s; NO;2.0;3.0;;31.0;-9.0;3.0;2.0;16.0;16.0;17.0
+GP;M;18.0;u;GT3;T;2.0;;other;other;home;mother;2.0;2.0;0.0; nO  ;Yes; yEs  ;; yEs  ;Yes;Yes;NO;3.0;3.0;3.0;5.0;5.0; 4.0 ;0.0; 12,0 ;13.0; 13,0 
+GP;F;16.0;U;GT3; t ;4.0;4.0;services;teacher;home; mother ;1.0;3.0;0.0; no ;YES;no;Yes;No; Yes ;Yes;nO;5.0;3.0;;1.0;1.0;5.0;0.0;13.0;13.0; 14,0 
+GP;F;18.0;R;GT3;;3.0;1.0;other;other;reputa tion;mother;1.0;2.0;1.0;no;No; No ;Yes;Yes;yes;yes;Yes;5.0;3.0;3.0;101.0;1.0;4.0;16.0;9.0;8.0;7.0
+GP;F;17.0;U;GT3; T;3.0;2.0;other; other ;course;;1.0;2.0; 0,0 ;no;No;NO;Yes;NO;Yes;Yes;N o;5.0;3.0;4.0;1.0;3.0;3.0;10.0;16.0;15.0;15.0
+GP;M;17.0;U;;T;2.0;3.0;services;services; reputation ;father;1.0; 2,0 ;0.0;NO; yEs  ;Y ES; No ; NO ;Yes; Yes ;  nO   ;5.0; 3,0 ;3.0;;3.0;3.0;2.0;12.0;11.0; 12,0 
+GP;M;18.0; U ;LE3;T;2.0;1.0;other;at_home;course; mothe r ;4.0;2.0;0.0;yes; YES ;yes;Yes;Yes;;Yes; yEs  ;4.0;3.0;;4.0;5.0; 3.0 ;14.0;10.0;8.0;9.0
+GP;F;17.0;U;GT3;A;2.0;;other;ot her; course ;mother;2.0;3.0;0.0; no ;no; No;yeS; YES ;yes;yes;Yes;3.0;2.0;3.0;1.0;2.0;3.0;10.0;12.0;10.0;12.0
+GP;F;17.0; U ;LE3;T;-6.0;3.0;other;;reputation;father;1.0;2.0;0.0;no;nO;No;y es;YES; yEs  ;YES;  yEs   ;3.0; 2,0 ;3.0;1.0;102.0; 3.0 ;14.0;13.0;13.0;
+GP;M;17.0;R;GT3;T;2.0;2.0; other ;other;course;father;;2.0;0.0;No;;yes; yEs  ; yEs  ;Yes;yes;NO;4.0;5.0;2.0;1.0;1.0; 1,0 ;4.0;11.0;11.0;11.0
+GP;M;17.0;U;GT3;T;4.0;4.0;teacher;teacher;reputation;mother;1.0;2.0;0.0; yes  ;Yes;NO;  YES ;yes;Yes;yes;Yes;4.0;5.0;5.0;1.0;103.0;2.0; 14.0 ;11.0;9.0;9.0
+;M;16.0;U;GT3;T;;4.0;othEr; health ;repuTation; father ;1.0;;0.0; nO   ;yes; yes ;yes;YES;YES; yEs  ;NO;34.0;2.0;4.0;2.0;4.0;1.0;2.0;14.0;13.0;13.0
+GP;;16.0;U; LE3 ;T;101.0;1.0;other;other;home; mother ;2.0;2.0;0.0; NO ;yes; yEs  ;No; yEs  ;yes;yes; NO ;;4.0;2.0;1.0;1.0;5.0;18.0;9.0;7.0;6.0
+GP;M ;16.0;U;GT3;T;3.0;2.0;other;at_home;reputation;mother;2.0;3.0;0.0;  nO   ;n o;  nO  ;;yes; yes;yes; yEs  ;5.0;3.0;3.0;1.0;3.0;2.0;10.0;11.0;9.0;10.0
+ GP ;M;17.0;U;LE3;T; 2.0 ;2.0;other;;home;father;1.0;2.0;0.0; NO  ; nO  ;Yes;YES ; nO  ;Yes;Yes;yes;4.0;4.0;2.0;5.0;5.0;4.0;4.0;14.0;13.0; 13.0 
+Gp;F;;U;GT3;T;2.0;1.0; other ;otHer;home;mother;1.0;1.0;;NO;no;NO;No; yEs  ;yes; yEs  ; yEs  ;4.0;5.0;2.0; 1,0 ;1.0;5.0;20.0;13.0;12.0;12.0
+ GP;;17.0;R;GT3;T;2.0;1.0;services;at_home;c ourse;mother;3.0;2.0;0.0;  nO  ;no;no;YES;Yes;yes;NO;nO;2.0;1.0;1.0;1.0;1.0;3.0;;13.0;11.0;11.0
+GP;M; 18.0 ;U;GT3;t;2.0;32.0;serVices;other;repuTation;father;1.0;2.0;1.0;nO;No;no;NO;Yes; nO  ; yes  ;No;5.0;5.0;4.0;;5.0;2.0;;7.0;7.0;0.0
+GP;M;47.0;U;LE3;T;4.0;;other;health;course;mother; 2,0 ;2.0;0.0;NO;NO;no; yEs  ;yes;yes;Yes;  yes   ;2.0;5.0;35.0;1.0;4.0;5.0;44.0;12.0;12.0;112.0
+GP;m;17.0; R ;LE3;A;4.0;4.0;other;teacher;course;mother;;2.0;0.0;NO;YES; yEs  ;NO;yes;YES;Yes;No;; 3.0 ;3.0; 2,0 ;3.0;4.0;2.0;10.0;11.0;12.0
+GP;m;16.0;U;LE3;T ;4.0;3.0;other;te acher; course ;mother;1.0;1.0;0.0;No;No;no; Yes ;  nO   ;Yes; yEs  ;No;5.0;;5.0;1.0;1.0;3.0; 0.0 ;6.0;0.0;0.0
+GP;M;16.0;U;GT3;T;4.0;4.0;services;services;course; mother ;1.0;1.0;0.0;No;no;no;YES; yes ; yEs  ;YES;no;5.0;3.0;2.0;1.0; 2,0 ;5.0;0.0;13.0;12.0; 12.0 
+GP ;F;;U;GT3;T;2.0;1.0;other;other;course;other;2.0;3.0;0.0;NO;yes;Y es;;No;Yes;yes ;Yes;4.0;4.0;4.0;1.0;31.0;3.0;0.0;7.0;;0.0
+GP;M;16.0;U;GT3;;;1.0;other;other;Course;mother;3.0;1.0;0.0;; nO  ;;NO;Yes;yes;Yes;no;4.0;3.0;3.0;1.0;1.0; 4.0 ;6.0;18.0;18.0;18.0
+GP;M; 17.0 ;U;GT3;T;2.0;3.0;other;other;course;father;2.0; 1,0 ;0.0; nO  ;NO; nO  ; No ;YES;yes; yEs  ;no; 5,0 ;2.0;2.0;31.0;;2.0;4.0;12.0;12.0;13.0
+GP; M ;22.0;U; GT3 ;T;3.0;1.0;services;services;other;motheR;1.0;-9.0;103.0;no;No;No;no;No;NO; yEs  ;YES;5.0;4.0;5.0;105.0;5.0;1.0;16.0;6.0;8.0;8.0
+GP;M;18.0;R ;LE3;T;3.0;3.0;services; o ther ;coUrse;mother;1.0;2.0;1.0;NO; yEs  ;NO; nO  ;YES;YES;y es;YES;4.0;3.0;3.0;1.0;3.0;5.0;8.0;;5.0;5.0
+ GP ; M; 16,0 ;U;GT3; T ;0.0;2.0;other;other;other;mother;1.0;1.0;;NO;no;YES;no;NO; yEs  ; yEs  ; nO ;4.0;3.0;2.0;2.0;4.0; 5.0 ;0.0;13.0;15.0;15.0
+GP;M;18.0;U;GT3;t;3.0;2.0;otHer;services;course;m other;;1.0;1.0;no; nO  ; nO  ;No ; yEs  ; nO  ;Yes;No;4.0;4.0;5.0;2.0;4.0;5.0;0.0;6.0;8.0;8.0
+;M ;16.0;U;GT3;T;3.0;3.0;other;at_home;reputation;other;3.0;2.0;0.0; yes ;yes;no;No;n o; YES ;Yes;NO;5.0;3.0;3.0;1.0;3.0;2.0;6.0;7.0;10.0;10.0
+GP;M;18.0;U;GT3;T;2.0;1.0; services;services;other;mother;1.0;1.0;1.0; nO  ; nO  ;NO;no; No ; nO  ;YES;  nO   ;3.0;2.0;;2.0;5.0;5.0;4.0;36.0; 9,0 ; 8.0 
+GP;M;16.0;R;GT3;T;2.0;1.0;other;other; course ;mother;2.0;101.0;0.0; nO  ;nO;NO;Yes;NO;Yes; nO  ;No;3.0;3.0;2.0;1.0;3.0;3.0;0.0;8.0;9.0;8.0
+GP;M;17.0;R; GT3 ;T;2.0;1.0;other;other; course ;mother;1.0;1.0;0.0; No ;  nO   ; nO  ;no;N o;Yes; yEs  ;No;4.0;4.0;2.0;2.0;34.0;5.0;0.0;8.0;;12.0
+GP;M;17.0;U; LE3 ;T;1.0;1.0;other;health;course;mother;2.0;1.0;1.0;no;yes;no;Yes;yes;Yes;YES;no;4.0;4.0;4.0; 1.0 ;2.0;5.0;2.0;7.0;9.0;8.0
+GP;F;17.0;U;LE3;t;4.0;2.0;services;teacher;reputation;mother;1.0;4.0;0.0;no;Yes;yes;Yes;YES; yEs  ;; no  ;4.0;2.0;3.0;1.0;1.0;4.0;6.0;14.0;12.0;13.0
+GP;M;19.0; U ;LE3;A;4.0;;at_home; services ;reputation;;1.0;2.0;-10.0;NO; yEs  ;NO; nO  ;yes;YES;YES;NO;4.0; 3.0 ;1.0;1.0;1.0;1.0;12.0;11.0;11.0;11.0
+GP;M;18.0;U;GT3;T;2.0;1.0;other;other;home;mother ;1.0;2.0;0.0;No; nO  ;;YES;Yes;Yes;YES ;No;5.0;2.0;4.0;1.0;2.0;4.0;8.0;15.0;14.0;14.0
+GP;F;17.0;U;LE3;T;2.0;;services;services;course; father ;1.0;4.0;0.0;NO ; NO ; yEs  ;yes;Yes;Yes;  yEs   ;; 3,0 ;4.0;;-9.0; 1,0 ;2.0;0.0;10.0;9.0;
+GP;F;18.0;U;GT3;T;4.0;3.0;other;services;home;;1.0;2.0;0.0;; yEs  ; YES ;  nO  ;YES; yEs  ;Yes; yEs  ;3.0;1.0;2.0; 1.0 ;3.0;2.0; 21,0 ;17.0;18.0;18.0
+ GP ;M;18.0;U;GT3;T;4.0;3.0;other;teach er;course;mother;1.0;102.0;0.0; nO  ;Yes; yEs  ; nO  ;No; yEs  ;  yEs  ;NO; 4,0 ;3.0;2.0;1.0;1.0;3.0;2.0;8.0;8.0; 8,0 
+GP;M;18.0;R;GT3; T ;3.0;2.0;; other ;course;mother;1.0;3.0;0.0; nO  ;no; no ;YES; nO   ;YeS;No;No;;3.0;2.0;-9.0;1.0;3.0;1.0;13.0;12.0;12.0
+GP; F;17.0;U; GT3 ;T;3.0;3.0;other;other;hoMe;mother;1.0;3.0;0.0;No;NO;No;Yes; nO  ; yEs  ;no;NO;3.0;-8.0;;1.0;1.0;4.0;4.0; 10,0 ;9.0;9.0
+GP; F;18.0;U; GT3 ; T;2.0;2.0;services;at_home;home;mother;1.0;3.0;0.0;no;yes; yEs  ; yEs  ;YES;yes;YES;Yes;4.0;3.0;3.0;1.0;1.0;3.0;0.0;9.0;10.0;0.0
+GP;M;18.0;R;LE3;A;103.0;4.0;other;other;reputation;mother;2.0;2.0;0.0;NO;Yes;YES; yEs  ; yEs  ;YES;Yes; nO  ;4.0;2.0;5.0;3.0;4.0;1.0;13.0;17.0;17.0;17.0
+GP;M;17.0;U;GT3;T;3.0;1.0;other;services;other;mother;1.0;2.0;;no;no; yEs  ;Yes; yEs  ;yes;yes;yes; 5,0 ;4.0;4.0;103.0;4.0; 5,0 ;2.0;109.0;9.0;10.0
+GP; F ;18.0;R;GT3;T;4.0;4.0;othEr; teacher ;reputation;mother;2.0;2.0;0.0;NO;no;YES; yEs  ;Yes; yEs  ; yEs  ; nO  ;4.0;3.0; 4.0 ; 2.0 ;2.0;4.0;8.0;12.0;40.0;11.0
+GP;M;18.0;U;GT3;T;4.0;2.0;other;health;reputation;father;1.0;2.0;0.0;no; YES ;Yes;YES; yEs  ; yEs  ; yEs  ;YES; 5.0 ;4.0;5.0;1.0;3.0; 5.0 ;10.0;10.0;9.0;10.0
+Gp;F;48.0;R;G T3;T;2.0;1.0;other;other;reputation;mother;;2.0;0.0;NO;YES; nO  ;; yEs  ;No;Yes; yEs  ;4.0;3.0;5.0;1.0;2.0;3.0; 0.0 ;6.0;0.0;0.0
+GP;F;19.0;u;;T;-7.0;3.0;services;othEr;home;other;1.0;-8.0;2.0; nO  ;  yEs   ; yes ; yes ;YeS;yes;yes;no;4.0; 3.0 ;5.0;3.0;3.0;5.0;15.0;9.0;9.0;9.0
+GP;F;18.0; U;GT3;T;2.0;3.0;services;otHer;reputation;father;1.0;4.0;0.0;No;yes; yEs  ;YES;Yes;yes; yEs  ; yEs  ;4.0;5.0;5.0;1.0;3.0;2.0;4.0;15.0;14.0;14.0
+GP;F;18.0;U;LE3;T; 1,0 ;1.0;other;other;home;moTher;2.0;2.0;0.0; nO  ;Yes; yEs  ;NO;no; yEs  ;no; nO  ; 4.0 ;34.0;3.0;1.0;1.0;3.0;2.0;11.0;11.0;11.0
+GP;M;17.0;R;GT3;T;1.0;2.0;;at_home;home;mother;1.0;2.0;0.0; nO  ;YES;;YES;no;YES;No;Yes;3.0;5.0;2.0;2.0;2.0;1.0;2.0;15.0;14.0;14.0
+GP;F;17.0;U;GT3; T ;2.0;4.0; heAlth ;at_home; reputation ;mother;2.0;2.0;0.0;no; yes ;;No;yEs;Yes; yEs  ;Yes;4.0;3.0; 3.0 ;1.0;1.0;1.0;2.0;10.0;10.0;10.0
+GP;F;17.0;U;LE3;T; 2,0 ;2.0;ot her;services;course;mother;2.0;2.0;0.0;YES;YeS; yEs  ;NO;yes; yEs  ;yes;YES;4.0;4.0;4.0;2.0;3.0;5.0;6.0;12.0;12.0;12.0
+GP;F;18.0;R;GT3;A;3.0;2.0;services;othEr;home;mother;2.0;2.0;0.0; nO  ; no ;No; NO ;no;no; yEs  ;YES;4.0;1.0;1.0;1.0;1.0;5.0;75.0;10.0;9.0;9.0
+GP;M;18.0;U;GT3;T;-6.0;4.0;services;teacher;home;mother;2.0;1.0;0.0; nO  ;no ;yes;  yEs   ;yes;YES; Yes ;No;3.0;2.0;104.0;1.0;4.0;3.0;22.0;9.0;9.0;9.0
+ GP;F;18.0;U;;T;4.0; 4.0 ;h ealth;health;reputation;father;1.0;2.0;1.0;yes;Yes; nO  ; yEs  ;YE S;Yes;yes;YES;2.0;4.0;4.0;1.0;1.0;34.0;15.0;9.0; 8.0 ;8.0
+GP;M;8.0;U;LE3;T;4.0;3.0;services;teacher;course;mother; 2,0 ; 1,0 ;0.0; nO  ;No;Yes;yes;yes;YES;;No;4.0;2.0;3.0;1.0;2.0;1.0;8.0;10.0;11.0;10.0
+GP;M;17.0;U;LE3;;4.0;1.0;other;servic es;home;mother;2.0;1.0;0.0;nO;NO; yEs  ;YES; YES ;YES;Yes;YES;4.0;5.0;4.0;2.0;4.0;5.0;30.0;8.0;8.0;8.0
+GP;M ; 17.0 ;;LE3;A;3.0;2.0;services;teacher;home;mother;1.0;1.0;1.0;No;no;NO;NO;  yEs   ;Yes;; NO ;4.0;4.0;4.0;3.0;4.0;103.0; 19.0 ;1.0;9.0;10.0
+GP; F ;18.0; R ; LE3 ;T;1.0;1.0;other;at_home; reputation ;mothe r;32.0; 4.0 ;0.0;No;Yes; yEs  ;yes; yEs  ; yEs  ;; nO  ;5.0;2.0;2.0;1.0;1.0;3.0;1.0;12.0;12.0; 12,0 
+GP;F;18.0;U;;T;1.0;;other;other;home;mother;2.0;2.0;0.0;yes;no;no;YEs;Yes;yes;Yes;NO;5.0;4.0;4.0; 1,0 ; 1,0 ;4.0;4.0;8.0;9.0;10.0
+G P;F;17.0;U;GT3;T;2.0;2.0;other;other;course;mother;1.0;2.0;0.0;No;YES;NO; nO  ;no; yEs  ;Yes; nO  ;5.0;104.0;5.0;1.0;;5.0;4.0;10.0;9.0;11.0
+GP;M;;U;GT3;T;1.0;1.0;other;other;reputation;father;1.0;2.0;0.0; nO  ;No;YES;no;no;yes; yes;No;4.0;103.0;3.0;1.0;2.0;4.0;2.0;12.0;10.0;11.0
+Gp;F ;18.0;U;GT3;T;2.0;2.0;at_home;at_home;other;mother;1.0;-7.0;0.0; no ; Yes ;Yes;No;YES; yEs  ;YES;no;4.0;3.0;3.0;;2.0;2.0;5.0;18.0;18.0;19.0
+GP;F;17.0;U;GT3;T;1.0;1.0;tea cher;services;reputation;mother;1.0;33.0;0.0;NO;yes;yes;no;yes;YES; Yes  ;NO;4.0;3.0;3.0;1.0;1.0;3.0;-4.0;13.0;12.0;12.0
+GP;M;18.0;U;GT3;T;2.0;1.0; services ;services;reputatioN;mother;1.0;3.0;0.0; nO  ;No;yes;Yes;Yes;YES;Yes;NO;4.0;2.0;4.0;1.0;3.0;2.0;6.0; 15.0 ;14.0;14.0
+GP;m;18.0;U;LE3;A;4.0;4.0;teAcher;teacher;Reputation;mother;1.0;2.0;0.0; No ;YES;YeS; yEs  ; yEs  ;Yes;Yes;no;5.0;4.0;3.0;1.0;1.0;2.0;9.0;15.0;13.0; 15.0 
+GP;M;;U;;T;4.0;2.0;other; teacher ;home;mother;1.0;2.0;0.0; nO  ;YES;Yes;yes;YES;  yEs   ;Yes; yEs  ;4.0;3.0;2.0;1.0;4.0;5.0;11.0;12.0;11.0;11.0
+GP; F ;;U;GT3;T;4.0;3.0;services;health;reputation;mother;1.0;3.0;0.0;no; yEs  ; yEs  ;;;Yes; yEs  ;  nO   ;4.0;2.0; 2.0 ;-9.0;2.0;3.0;0.0;15.0;15.0;15.0
+GP;;18.0;U; LE3 ;T;2.0;1.0;at_home;services;reputation;mother; 1,0 ;2.0;1.0;  nO   ;No;No;NO;YE S; YES;Yes;YES;5.0;4.0;3.0;1.0;1.0;5.0;12.0;12.0;12.0;13.0
+GP;F;17.0;R;LE3;T;3.0;1.0;other;services;reputation;mother;2.0;4.0;0.0;No;yes;yes;No; yEs  ; yEs  ;no;No;3.0; 1,0 ;2.0;1.0;1.0;3.0;6.0;18.0;18.0;18.0
+GP;M;18.0;R;LE3;T;3.0;2.0;;services;reputation;mother;2.0;3.0;0.0;No;YES;Yes;YES;yes; yEs   ; yEs  ; nO  ;5.0;4.0;2.0;1.0;1.0;4.0;8.0;14.0;13.0;14.0
+GP;m;17.0;U; GT3 ;T;3.0;3.0; other ;health;nan;mother;1.0;1.0;0.0;No;YES; yEs  ; NO ;YES;YES; YES ;NO;4.0; 4.0 ;3.0;1.0;3.0;5.0;34.0;14.0;12.0; 11,0 
+GP;F;19.0;U;GT3;T;4.0;4.0;other ;;reputation; other;2.0;2.0;0.0;No; yEs  ; yEs  ; yEs  ;yes;;yes; nO  ;2.0;3.0;4.0;2.0;3.0;2.0;0.0;10.0;9.0;0.0
+GP;F;118.0;U;LE3;T;4.0;3.0;other;other;home;other;2.0;2.0;0.0;no; yEs  ; Yes ; nO  ;yes;;YES;yES;4.0;4.0;5.0;1.0;2.0;2.0;10.0;10.0;8.0;8.0
+GP;F;18.0;U;GT3;T;4.0;3.0;other;other;reputation;father;;4.0;0.0; no ; yEs  ;yes; no ;YES;Yes;Yes;No;4.0;103.0;3.0;1.0;1.0;3.0;0.0;14.0;13.0;14.0
+GP;M;18.0;U;LE3;T;4.0;4.0;teacher;teacher;home; mother ;1.0;1.0;0.0; nO  ; yEs  ; yEs  ; No ;Yes; yes  ;Yes; yes ;1.0;4.0;2.0;2.0;2.0; 1,0 ;5.0;16.0;15.0;16.0
+GP;F;18.0;U;LE3;A;-6.0;4.0;other;health;home;mother;1.0;2.0;0.0;no;Yes;NO; nO  ;YES;Yes;Yes; YES ;4.0;2.0;4.0; 1,0 ;1.0;4.0;114.0;42.0;10.0;11.0
+GP;M;17.0;U;LE3;T ;4.0;4.0;teacher;other;home;father;2.0;1.0;0.0;No;NO; yEs  ;No; yEs  ;yes;Yes; nO  ;4.0;;1.0;2.0;2.0;5.0;0.0; 11,0 ;41.0;10.0
+GP;F;17.0;U;GT3;T;4.0;2.0;other;other;reputation;mother;2.0;3.0;0.0;NO; Yes;YES;No;YEs;Yes;YES;;4.0;3.0;3.0;1.0;1.0;33.0;0.0;15.0;12.0;14.0
+GP;F;17.0;u; GT3 ;T;3.0;2.0;health;health;reputation;father; 1,0 ;4.0;0.0; nO  ;Yes;YES;Yes;no; yEs  ;YES;No;5.0;2.0; 2.0 ;1.0;2.0;5.0;0.0;;17.0;18.0
+GP;M;19.0;u;;T;3.0;3.0;other ;other;home;otheR;101.0;2.0;1.0; NO ;YES;No;yes; yes ; yEs  ;Yes;Yes;4.0;4.0;4.0;1.0;1.0;3.0;20.0;15.0;14.0; 13,0 
+GP;F;18.0;U;GT3;T;2.0;4.0;at_hOme;services;reputation;other;1.0;2.0;1.0;No; yEs  ;yes;Yes; yEs  ;Yes;Yes;no;4.0;-6.0;3.0;1.0;1.0;3.0;-2.0;14.0;112.0;12.0
+GP;M;20.0;U;GT3;A;3.0;2.0;oTher;services;cOurse;other;1.0;;0.0;NO; nO ;NO;YES;Yes;;NO;no;5.0;35.0;3.0;1.0;1.0;5.0;0.0;17.0;18.0;18.0
+gP;M;19.0;U;GT3;T ;4.0;4.0;servIces;teacher;reputation; other ;2.0;1.0;1.0;  nO   ;YES ; yEs  ;no;yes;yes;YES;YES;4.0;3.0;4.0;101.0;1.0;4.0;38.0;8.0;9.0;8.0
+GP;M;9.0;R;GT3;T;3.0;3.0;services; other ;reputation;fathe r;1.0;2.0;1.0;no;No;no;yes;yEs;yES;NO;YES;104.0;5.0;103.0;1.0;2.0;105.0;0.0;15.0;12.0;12.0
+Gp;F;19.0;U;LE3;T;101.0;1.0; otheR ;at_home;reputation;;1.0;2.0;1.0;yes; Yes ;NO;YES;no;YES; yEs  ;no;4.0;4.0;3.0;1.0;3.0;3.0;18.0;12.0;10.0;10.0
+GP;F;19.0;U;LE3;T;1.0;2.0;sErvices;services;;othEr;1.0;2.0;-9.0; nO  ; nO  ;No; Yes ;No;YES;no;yes;4.0;2.0;;2.0;2.0;3.0;0.0;9.0;9.0;100.0
+GP;F;19.0;U;GT3;T;2.0; 1.0 ;other;at_home;;other;3.0;2.0;0.0;no; yEs  ; nO  ;No; yEs  ;no; yEs  ; yEs  ;3.0;4.0;101.0;1.0;1.0;2.0;20.0;14.0;12.0;13.0
+GP;M;;U;GT3;;1.0;2.0;services;other;course;;1.0;2.0;1.0;N O; nO  ; nO  ; NO ;NO;YES; yEs  ;NO;;5.0;2.0;2.0;2.0;4.0;3.0;13.0;11.0;11.0
+GP;F;19.0;U;LE3;T; 3,0 ;2.0;other; services ;reputation;other;2.0;2.0; 1,0 ;No; yEs  ;YES;No;;yES; yEs  ;yes;4.0; 2.0 ;2.0;1.0;2.0;1.0;52.0;13.0;;11.0
+GP;F;19.0;U;GT3;T;1.0;1.0;health;at_home;; other ;101.0;3.0;2.0;no;NO;No;no;; yEs  ;Yes;yes;4.0;1.0;2.0;1.0;-9.0;3.0;14.0;15.0; 13,0 ;13.0
+GP;F;19.0;R;GT3;T;2.0;-7.0;other;other; reputation ;other;1.0;3.0;1.0;NO;NO;NO;No;;yes;Yes;Yes;;1.0;2.0;1.0;1.0;3.0;40.0;13.0;11.0;11.0
+GP;F;18.0;U;GT3;  T ;2.0;1.0;other;services; couRse ;mother;2.0;2.0; 0,0 ; nO  ;yes;  yEs  ;Y es;yes;yes; yEs  ;no;5.0;3.0;3.0;1.0;2.0;1.0;0.0;8.0; 8.0 ;0.0
+GP;F; 18,0 ;U;GT3;T;4.0;3.0;other;other;course;Mother;;3.0;0.0;; yEs  ; yEs  ;Yes;Yes;yes;YES;yes;4.0;3.0; 4.0 ;1.0; 1.0 ;5.0;9.0; 9,0 ;10.0;9.0
+GP; F ;17.0;R;GT3;T;3.0;34.0;services;at_home;course;father;1.0;3.0;0.0;  nO  ; yEs   ;yes; yEs  ;No;Yes;yes;no;4.0;3.0;4.0;2.0;5.0;5.0;0.0; 11.0 ;11.0;10.0
+GP;F;18.0;U;GT3;T;4.0;4.0;other;teacher;course;mother;31.0; 2.0 ;;No; Yes ;yEs;No;yes;YES;yes; nO  ;4.0;4.0;4.0;3.0;3.0;5.0;2.0;11.0;11.0;11.0
+GP;F ;17.0; U ;GT3;A;4.0;3.0;services;services;course; mother ;1.0;2.0;;No;YES; yEs  ; NO ; yEs  ;YES;YEs;;5.0;2.0;2.0;1.0;2.0;35.0;23.0;13.0;13.0;13.0
+GP;F;17.0;U;GT3;T;2.0;2.0;other; oTher ;course; mother;1.0;;0.0;NO;YES;no;no; yEs  ;Yes;NO;;104.0;2.0;-8.0;1.0;1.0;3.0;12.0;11.0;9.0;9.0
+GP;F;17.0;R;LE3;T;2.0;2.0; services ;services; course ;mother; 1.0 ;3.0;;no;yes; yEs  ; yEs  ;yes;Yes ;YES;no;;;2.0;2.0;2.0;33.0;3.0;11.0;11.0;11.0
+GP;F;17.0;U;GT3;T;3.0;1.0;services;; course ;father;1.0;;0.0;NO;  yEs   ;No;NO;no; yEs  ; yEs  ;No;3.0;4.0;3.0;2.0;3.0;5.0;1.0;12.0;14.0;15.0
+GP; F;17.0;; LE3;T;0.0;2.0;at_home;at_home;home;father;2.0;3.0;0.0;no; No ;no; nO  ; yEs  ;yes;yes;NO;3.0;3.0;3.0;2.0;3.0;2.0;0.0;16.0;15.0;15.0
+GP;m;18.0;U;GT3;T;4.0;4.0;other;other;course;mother;1.0;3.0;0.0; no;no;No; yEs  ; yEs  ;Yes;Yes;NO;4.0;3.0;3.0;2.0;2.0;3.0;;9.0;12.0;11.0
+GP;M;17.0;U;GT3; T ;3.0;3.0;services;Other;reputation;mother;1.0;1.0;0.0;no;NO;no; yE s  ; nO  ;yes; yEs  ; nO  ;4.0;3.0;5.0;3.0;5.0;5.0; 3,0 ;14.0; 15.0 ;16.0
+GP;M;17.0; R ;GT3;T; 2.0 ;2.0;other;services;course;mother;4.0;1.0;0.0;NO; yEs  ;No ; nO  ; yEs  ;YES; yEs  ; nO  ;4.0;4.0;5.0;5.0;105.0;4.0;8.0;11.0;;10.0
+GP;f;17.0;u; GT3  ;T;4.0;4.0;services;teacher;course; mother ;;3.0;0.0;No;YES; Yes;YES; Yes ; yEs  ;yes;n o;5.0;4.0;;1.0;3.0; 4,0 ;7.0;10.0;;
+GP;F;17.0;U;GT3; T;4.0;4.0;teacher;;course;mother;2.0;3.0;0.0;no;YES; yEs  ;No;no;YES;Yes;Yes;4.0;3.0; 3,0 ;1.0;2.0;4.0;;14.0;14.0;14.0
+GP;M;18.0;U;LE3;T;-8.0;2.0;other;other;course;mother;;4.0;0.0;NO; yEs  ;no;;yes;yes;Yes;No;4.0;5.0;5.0;2.0;4.0;5.0;2.0;9.0;8.0;8.0
+GP;F; 17,0 ;R;GT3;T;2.0;4.0;other;at_home; cours e ;Father;1.0;3.0;0.0;No;yes;no;no;yes; yEs  ; yEs  ; yes ;4.0;4.0;3.0;1.0;1.0;5.0;7.0;12.0;14.0;14.0
+GP;;;U;GT3;T;3.0;33.0;services;services;home;mother;1.0;2.0; 0,0 ;NO;no; nO  ;yes;YES; Yes;yes; nO  ;5.0;3.0;34.0;1.0;1.0;4.0;0.0;7.0;;0.0
+GP;F; 18.0 ;U;LE3;T;2.0;-8.0;other;other;home; other ;1.0;2.0;0.0;;No; nO  ; YES;NO;Yes;Yes;YES;;;3.0;1.0;1.0;2.0;0.0;8.0;8.0;0.0
+GP;F;18.0;r;GT3;T;2.0;2.0;other;at_home;course;mother;2.0;4.0;0.0;no; NO  ;No;YES; yEs  ;yes;no;No;4.0;4.0;4.0;1.0;1.0;4.0;0.0;10.0;9.0;0.0
+GP;F;47.0;u; GT3 ;T;3.0;4.0;other ;services;co urse;mother;1.0;3.0;0.0;NO; nO  ; nO  ;N o; Yes ;YES;YES;NO;4.0;4.0;5.0;1.0;3.0;5.0;16.0;16.0;15.0;15.0
+GP;F;19.0;R;GT3;A;3.0;1.0;at_home;services;home;other;1.0;3.0;1.0;no;No;Yes;no;; yEs  ;NO;NO;5.0;4.0;3.0;1.0;2.0;5.0;12.0;14.0;13.0;13.0
+GP;F; 17,0 ;u;GT3;T;3.0;2.0;other;other;home ;mother;31.0;2.0;0.0;No;YEs; yEs  ;no;Yes;YES; yEs  ;yes;4.0;3.0;2.0;2.0;3.0;2.0;0.0;7.0;8.0;0.0
+GP; F ;8.0;u;LE3;T;3.0;3.0; services;services;home;mother;1.0; 4.0 ;0.0; nO  ;Yes; nO  ;  nO   ;YES;YES; yEs  ; N o ;;3.0;3.0;1.0;1.0;1.0;7.0;16.0;15.0;17.0
+GP;F ;17.0;R;GT3;A;3.0;2.0;otheR;other;home; mother ;1.0;2.0;0.0; nO  ;Yes;yes; No ;yes;Yes;yes;no;4.0;103.0;3.0;2.0;3.0; 2,0 ;4.0;;10.0;10.0
+GP;F;19.0; U ;Gt3;T;2.0;1.0;services;services;home;other;1.0;3.0;1.0;NO;No;YES;Yes;Yes; yEs  ;Yes;yes;4.0;3.0;4.0;1.0;3.0;3.0;4.0;11.0;12.0;11.0
+GP;m;18.0;U; GT3;T;4.0;4.0;services;teacher;home;father ;1.0;;1.0;NO;YES;no;  yEs  ; yEs  ;YES; yEs  ; No ;4.0;103.0;3.0;2.0;2.0;2.0;0.0;10.0;10.0;0.0
+gP;M;18.0;U; LE3  ;;3.0;4.0;other;services;home;mother;1.0;2.0;0.0;No;NO; nO  ;Yes;yes;yes;YES;Yes; 4,0 ;;3.0;1.0;3.0;;11.0;16.0;15.0;15.0
+GP;F;117.0;U;GT3;A;2.0;2.0;at_home;at_h ome;home;fatHer;1.0;2.0;1.0;No;Yes;NO;No;yes; yEs  ;Yes; yEs  ;3.0;3.0;;1.0;2.0;4.0;0.0;9.0;8.0;0.0
+GP; F ;18.0;U;;T;2.0;103.0;other;At_home;course;mother;1.0;3.0;0.0;no;YES; NO ;  nO   ; yEs  ; yEs  ;Ye s;NO;;3.0;3.0;1.0;2.0;3.0;4.0;11.0;10.0; 10,0 
+GP;F;8.0;U;GT3;T;3.0;2.0;services;otHer;other;mother;1.0;103.0;0.0; nO  ;no; NO;No; yEs  ;Yes;Yes;YES;5.0;4.0;3.0;2.0;-7.0; 1.0 ;7.0;13.0; 13.0 ;14.0
+G P;M;18.0;R;GT3;T;4.0;3.0;services; teacher ;course;mother;-9.0;3.0;0.0;no;no; NO ; nO  ;Y es;Yes;Yes;yes;5.0;3.0;-8.0;1.0;2.0;4.0;9.0;16.0; 15,0 ;16.0
+GP;M;18.0; U ;GT3;T;4.0;3.0;other; teachEr ;course; mother;1.0;3.0;0.0; nO  ;YES;Yes;  nO   ;yes;yES;yes;;5.0;4.0;5.0;2.0;3.0;5.0;0.0;10.0;10.0;9.0
+GP;F;17.0;U;GT3;T;4.0;3.0;other;health;reputation;mother;1.0;3.0;0.0;NO ;yes;Yes;Yes;YES;yes;yes;Yes;4.0;4.0;3.0;1.0;3.0;4.0;0.0;13.0;15.0;15.0
+MS;M;18.0;R;GT3;T;3.0;2.0; other ; other ; course ;mother;2.0;1.0;1.0;;YES;NO;No;NO;YES;Yes;;;5.0;5.0;5.0;5.0;5.0;10.0; 11,0 ;13.0;13.0
+ MS ; M ;19.0;R;GT3; T ;1.0;1.0;services;other;home; other ;3.0;2.0;3.0;NO;NO;No;NO;yes;YES;YES;no;5.0;34.0;4.0;3.0;3.0;2.0;;8.0;7.0;8.0
+MS; M ;7.0;U;GT3; T;33.0;3.0;oth er;health;course; mother ;2.0;2.0;0.0;No; yEs  ;YES;no;YES; yEs  ; yEs  ;no;4.0;5.0;4.0;2.0;3.0;3.0;2.0;13.0;13.0; 13,0 
+MS;M;18.0;U; LE3 ;; 1.0 ;3.0;services;at_home;cou rse;Mother;1.0;1.0;; nO  ;NO;No;No; yEs  ;No;yes;YES;4.0;;3.0;32.0;33.0;-7.0;7.0;8.0;7.0;8.0
+MS;M; 19,0 ;r;G T3;T;1.0;101.0;otHer;other;;other;3.0;1.0;1.0;  nO   ;Yes; nO  ;No; yEs  ;YES;Yes;no;4.0;4.0;4.0;3.0;3.0;5.0;4.0;8.0;8.0;8.0
+MS;M ;17.0;R;GT3;T;4.0;3.0;other;services;home;mother;2.0;2.0;0.0;No;yes; yes  ;Yes;No;  yes   ;Yes;YES;4.0;35.0;5.0;1.0;3.0;2.0;4.0;13.0;11.0;11.0
+MS;F;18.0;U;GT3;T;3.0;3.0;s ervices;service s;course;;1.0;2.0;0.0;NO; yEs  ;No;  nO   ;YES;; no ;Yes;5.0;3.0;4.0;; 1,0 ;35.0;0.0;10.0;9.0;9.0
+MS;F;;R;GT3;T; 4.0 ;4.0;services;teacher;other;fatHer;2.0; 2,0 ;0.0;No;YES;YES;yes; YES; yEs  ;yes;No;4.0;3.0;3.0;1.0;2.0;5.0;4.0;12.0;3.0;13.0
+MS;F;17.0;U;;A;3.0;2.0;other;services;reputation;mOther;2.0;2.0;0.0;nO;No; no ;No; Yes ;Yes;nO;YES;1.0;2.0;3.0;;2.0;5.0;2.0;2.0;12.0;11.0
+MS;M;18.0;U;LE3;T;1.0;1.0;services;otHer;home;father;2.0;1.0;0.0;NO;No;No;No;nO;yes; yEs  ;YES;3.0;3.0;2.0; 1.0 ;102.0;3.0;4.0;10.0;0.0;10.0
+ MS ;F; 18.0 ;U;LE3;T;1.0;1.0;services;at_home;course;father;2.0;3.0;0.0;NO;nO; nO  ; nO  ;YES;yes; yEs  ; nO  ;5.0;3.0;2.0;1.0;1.0;4.0;;18.0;16.0;16.0
+MS;F;18.0;R;LE3 ;A; 1.0 ;4.0;other;at_home;course;mother;3.0;2.0;0.0;no;NO;no;No; yEs  ;yes; nO  ;YES;4.0; 3,0 ;4.0;1.0;4.0;5.0;0.0;13.0;13.0;13.0
+MS;M;18.0;R;LE3;T;1.0; 1,0 ;other;at_home;other;mother;2.0;2.0;1.0;NO;no;NO;YES;No;  No ;NO;;4.0;4.0;3.0;2.0;3.0;5.0;2.0;13.0;12.0;12.0
+MS;F;18.0;U ;GT3;T;3.0;3.0;services;services;other;mother;2.0;2.0;0.0; nO  ; yEs  ; nO  ;NO; yEs  ; yEs  ;Ye s; yEs  ;4.0;3.0;-8.0;1.0;103.0;33.0;0.0;11.0;11.0;0.0
+MS;F;17.0; U;LE3;;4.0;4.0;at_home; at_home ;course;mother;1.0;2.0;0.0;No; yEs  ;Yes;yes;YES;yes;YES;YES;2.0;3.0;4.0;1.0;1.0;1.0;0.0;16.0;15.0;15.0
+MS;F;17.0;r;;T;1.0;2.0;services;other;course;father;2.0;2.0;0.0; nO  ;NO;;no;  nO   ;Y es;NO;;3.0;2.0;2.0;1.0;2.0;3.0;0.0;12.0;11.0;12.0
+;M;18.0;R;GT3;;1.0;3.0;o ther;at_home;course;mother;2.0;-8.0;0.0;NO;YES; YEs  ;NO;YES; yEs  ;No; nO  ;3.0;3.0;4.0;2.0;34.0;3.0;4.0;10.0;10.0;10.0
+MS;M;18.0;U;LE3;T;4.0;4.0;services;teacher;other;mother;2.0;3.0;0.0; nO  ;No;;no;YES; yEs  ;Yes;yes;4.0;2.0;2.0;2.0;2.0;35.0;0.0; 13.0 ;13.0;13.0
+MS;F; 17,0 ;;GT3;T;1.0;1.0;services;other;reputation;mother;3.0;1.0;1.0;no;Yes;yes;  nO   ; Yes ;yes;  yEs   ; yEs  ;5.0;2.0;1.0;1.0;2.0;1.0;100.0;7.0;6.0;0.0
+MS;F;18.0;U;GT 3; T;2.0;3.0; services ;at_home;course;fathEr;2.0;1.0;0.0;NO;yes;YES;; yEs  ;yes; yes;Yes;5.0;2.0;103.0; 1,0 ;2.0;4.0;0.0;11.0;10.0;10.0
+MS;F;48.0;R;GT3;T;;;teacher;other;othe r;father;3.0;2.0;0.0;No; yEs  ;Yes; nO  ; nO  ; yEs  ; yes;Yes;3.0;2.0;2.0;4.0;2.0;5.0;10.0;14.0;12.0;11.0
+MS;;19.0;U;LE3;T;3.0;2.0;services;services;home;other;2.0;2.0;2.0;No; nO  ;No;YES;YES;Yes;No; YEs  ;3.0;2.0;2.0;;1.0;3.0;4.0;7.0;7.0;9.0
+MS; M ;;R;LE3;T;1.0;2.0;servIces;at_home;other;father;33.0;1.0;0.0;No;yes;yes;yes; yEs  ;No; yes ;yes;4.0;3.0;3.0; 2,0 ;3.0;3.0;3.0;4.0;12.0;12.0
+MS;F;17.0; U ;GT3;T;2.0;2.0;at_home;other;home;mOther;1.0;3.0;0.0;no;NO; nO  ; yEs  ;yeS;Yes; NO ;YES;3.0;4.0;3.0;1.0;1.0;33.0;8.0; 13.0 ;11.0;11.0
+MS;F; 17,0 ;R;GT3; T ;1.0;2.0;other;otHer;course;mother; 1.0 ;1.0;0.0;No; NO  ;NO;Yes;YES;Yes;YES;NO;3.0;5.0;-5.0;1.0;3.0;1.0;14.0;6.0;5.0;5.0
+MS;F;18.0;R;LE3;T;4.0;4.0;other;other;reputation;mother;2.0;3.0;;;no;no;no;Yes;YES;Yes;no;5.0;4.0;4.0;1.0;1.0;1.0;0.0;19.0;18.0;19.0
+MS;F;18.0;R;GT3;t;1.0;1.0;other;other;home;mother;4.0;3.0;0.0; nO  ;no;no;NO;YES; yes ; yEs  ;No;4.0;3.0;102.0;1.0;2.0;4.0; 2,0 ;8.0;8.0;10.0
+MS;F;20.0;U;GT3; T ;4.0;2.0;other;health;;other;2.0;3.0;2.0;NO; yEs  ; yEs  ;NO;NO; yes; yes ;yeS;5.0;4.0;3.0;1.0;;3.0;4.0;45.0;14.0;15.0
+MS;F;;R;LE3;T;4.0;4.0;services;teacher;course;mother;1.0;2.0;0.0;No;No;Y es;yes; yEs  ;YES; YES ;no; 5,0 ;4.0;3.0;3.0;4.0;2.0;4.0;8.0;9.0;10.0
+MS;F;18.0; U ;GT3;T;3.0;;oTher;other;home;mother;1.0;32.0; 0.0 ;no; NO ;yes; nO  ; yEs  ;yes;yes;yes;4.0;1.0;3.0;1.0;2.0;1.0;0.0;15.0;15.0;15.0
+MS;F;17.0;R;GT3;;3.0; 1.0 ;other;at_home;reputation;mother;31.0;2.0;0.0; nO  ; yEs  ;YES;YES;No; yEs  ; yEs  ; nO  ;4.0;5.0;4.0;2.0;3.0;1.0;17.0;10.0;40.0;10.0
+MS;M;18.0; U;GT3;T;4.0;4.0; teacher ;teacher;home;father;101.0;2.0;0.0;;No; Yes ; yes ;no;yes;yes;NO;3.0;2.0;4.0; 1,0 ;4.0;;4.0;15.0;14.0;14.0
+MS;M;18.0;R;GT 3;T;2.0;1.0;other;other;other;moth er;2.0;1.0;0.0;  nO   ;no; NO ; yEs  ; NO;YES;YES;Yes;4.0;4.0;3.0;1.0; 3,0 ;5.0;5.0;7.0;6.0;7.0
+MS;M;17.0;U;GT3;T;2.0;3.0;services;other;home;father;2.0;102.0;0.0; nO  ;NO;no ; yEs  ;Yes; yEs  ;Yes;NO;4.0;4.0;3.0;1.0;1.0;3.0;2.0;11.0;11.0;10.0
+MS;M;19.0;R;GT3;T;1.0;1.0;services;other;other;mother;2.0;1.0;1.0;NO;no;No;No; YES ;Yes;No;no;4.0; 3.0 ;2.0;1.0; 3,0 ;-5.0;0.0;6.0;5.0;0.0
+ MS ;M;18.0; R;GT3;T;4.0;2.0;other;other;home;father;2.0;1.0;1.0; NO  ;no;YES ; nO  ;Yes;yes;no; No ;5.0;4.0; 3.0 ;4.0;3.0; 3,0 ;14.0; 6,0 ;5.0;5.0
+ MS ;;18.0;R;GT3;T;2.0;2.0;other;;other;nan;2.0;3.0;; nO  ;  nO   ;;NO;;YES;no;;5.0;3.0;3.0;1.0;3.0;4.0;2.0;10.0; 9.0 ;10.0
+MS;F;18.0;R;GT3;T;4.0;4.0;at_home; teacher ;reputation;mother;3.0; 1.0 ;0.0;no;YES; yEs  ; Yes ;Yes;Yes;;yes;4.0;4.0;3.0; 2,0 ;2.0;5.0;7.0;6.0; 5,0 ;6.0
+MS;F;19.0;R;GT3;;2.0;103.0;other;services; course ;mother;1.0;3.0;1.0;NO;No;NO;yes; nO  ;yes;Yes;NO; 5,0 ;4.0;2.0;1.0;2.0;5.0;0.0;7.0;5.0;0.0
+MS;f;48.0;U;LE3;T;3.0;1.0; services ;teacher;course;mother;1.0;2.0;0.0;NO; yEs  ; YES ;; yes ;yes;YES;NO;4.0;3.0;4.0;1.0;1.0;1.0;0.0;7.0;9.0;8.0
+MS; F ;18.0;U;GT3 ;T; 1,0 ;1.0;other;other; course ; mother ;2.0;;31.0;No; no; nO  ;YES;  yEs   ;YES;no;No;1.0;1.0;1.0;1.0;1.0;5.0;0.0;6.0;5.0;0.0
+MS;M;20.0;U;LE3; A ;2.0;2.0;services;services;course;other;1.0;;2.0; nO  ;yes;YE S;No; yes ;Yes; no ;no;5.0;5.0;4.0;;5.0;4.0;11.0;;9.0;9.0
+MS;; 17,0 ; U ; LE3 ;T;-7.0;1.0; serVices ;services;course;mother;;1.0;0.0;no;nO;No; nO  ;no;yes;YES;No;;4.0;5.0;3.0;4.0;2.0;33.0;14.0;16.0;16.0
+MS;M;21.0;R;GT3;T;1.0;1.0;other;other;course;oTher;1.0;1.0;3.0;No;no;no;;no; yEs  ;No; nO  ;5.0;5.0;3.0;3.0;3.0;33.0;3.0;10.0;8.0;7.0
+MS;M;18.0;r; LE3 ;T;3.0;2.0;other;services;course;mothEr;3.0;1.0;0.0;NO;no;No; nO  ;no; YES ; yEs  ;no;4.0;4.0;1.0;3.0;4.0;5.0;;11.0;12.0;10.0
+M S;M;19.0; U;LE3;T;1.0;1.0; at_home ;other;course;father;1.0;1.0;0.0;no; nO  ;no;no;YES;YeS;YES;NO;3.0;102.0;3.0;3.0;3.0;5.0;5.0;8.0;9.0;
+MS;F; 17,0 ;R;GT3; T ;1.0;2.0;other;otHer;course;mother; 1.0 ;1.0;0.0;No; NO  ;NO;Yes;YES;Yes;YES;NO;3.0;5.0;-5.0;1.0;3.0;1.0;14.0;6.0;5.0;5.0
+GP;M;16.0;U;GT3;T;3.0;3.0;services;other;course;;1.0;102.0;1.0;No;Yes;yes;no;; yEs  ; yEs  ;YES; 4.0 ;5.0;5.0;4.0;4.0;5.0;104.0;10.0;12.0;12.0
+GP;M;17.0;R;LE3;T;1.0;1.0;services; other ;course;mother; 4.0 ;2.0;3.0;No; nO  ;  nO   ;yes;YE S;NO; No;Yes;5.0;3.0;5.0;1.0;5.0;5.0;0.0;;-2.0;
+MS;F;18.0;U;GT3;T;3.0;3.0;s ervices;service s;course;;1.0;2.0;0.0;NO; yEs  ;No;  nO   ;YES;; no ;Yes;5.0;3.0;4.0;; 1,0 ;35.0;0.0;10.0;9.0;9.0
+GP;F;16.0; U ;LE3;T;4.0;4.0;Health;health; other ; mo ther ;1.0;3.0;0.0;NO; y Es  ; yEs  ; yEs  ;Yes;yes; yEs  ;YES;5.0;4.0;105.0;1.0;1.0;4.0;4.0;14.0;15.0;16.0
+GP;F;17.0;R;LE3;T;2.0;2.0; services ;services; course ;mother; 1.0 ;3.0;;no;yes; yEs  ; yEs  ;yes;Yes ;YES;no;;;2.0;2.0;2.0;33.0;3.0;11.0;11.0;11.0
+GP;F;16.0;U;GT3;A;2.0;2.0;other;other;reputation;mother;1.0;2.0;0.0;yeS; yes ;Yes;no;YES;  yEs    ;yes;no;3.0;;4.0;1.0;1.0;4.0;0.0;12.0;13.0;14.0
